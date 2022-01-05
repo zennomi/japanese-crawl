@@ -1,0 +1,15 @@
+﻿expression	reading	index	kanji	illu	audio	meaning	hanviet	lien	liennghia	hop	hopnghia	doi	doinghia	loai	loainghia	quan	quannghia	quans	quansnghia	danh	danhnghia	vidu	vidunghia	source	english
+ 増大[ぞうだい]	ぞうだい	656	増大		[sound:yomichan_audio_ぞうだい_増大.mp3]	sự mở rộng; sự tăng thêm; sự khuyếch trương	TĂNG ĐẠI															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 増量[ぞうりょう]	ぞうりょう	657	増量		[sound:yomichan_audio_ぞうりょう_増量.mp3]	sự tăng số lượng, sự tăng cân	TĂNG LƯỢNG															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 増税[ぞうぜい]	ぞうぜい	658	増税		[sound:yomichan_audio_ぞうぜい_増税.mp3]	sự tăng thuế	TĂNG THUẾ															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 増員[ぞういん]	ぞういん	659	増員		[sound:yomichan_audio_ぞういん_増員.mp3]	tăng thêm số (của) nhân sự	TĂNG VIÊN															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 減点[げんてん]	げんてん	660	減点		[sound:yomichan_audio_げんてん_減点.mp3]	sự giảm trừ; sự giảm điểm	GIẢM ĐIỂM															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 減退[げんたい]	げんたい	661	減退		[sound:yomichan_audio_げんたい_減退.mp3]	giảm thiểu	GIẢM THOÁI															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 減量[げんりょう]	げんりょう	662	減量		[sound:yomichan_audio_げんりょう_減量.mp3]	giảm trọng lượng, tụt cân	GIẢM LƯỢNG															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 開発[かいはつ]	かいはつ	663	開発		[sound:yomichan_audio_かいはつ_開発.mp3]	sự phát triển, khai thác	KHAI PHÁT															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 開店[かいてん]	かいてん	664	開店		[sound:yomichan_audio_かいてん_開店.mp3]	sự mở cửa hàng	KHAI ĐIẾM															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 開業[かいぎょう]	かいぎょう	665	開業		[sound:yomichan_audio_かいぎょう_開業.mp3]	bắt đầu kinh doanh; khởi nghiệp	KHAI NGHIỆP															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 開催[かいさい]	かいさい	666	開催		[sound:yomichan_audio_かいさい_開催.mp3]	sự tổ chức; tổ chức	KHAI THÔI															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 開放[かいほう]	かいほう	667	開放		[sound:yomichan_audio_かいほう_開放.mp3]	sự mở cửa; sự tự do hoá	KHAI PHÓNG															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 閉鎖[へいさ]	へいさ	668	閉鎖		[sound:yomichan_audio_へいさ_閉鎖.mp3]	sự phong bế; sự phong tỏa	BẾ TỎA															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	
+ 密閉[みっぺい]	みっぺい	669	密閉		[sound:yomichan_audio_みっぺい_密閉.mp3]	kín hơi, kín gió	MẬT BẾ															<ol></ol>	<ol></ol>	https://www.vnjpclub.com/mimi-kara-n2-goi/unit-7-bai-7.html	

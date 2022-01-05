@@ -1,0 +1,106 @@
+﻿{
+    "sheet": [
+        {
+            "kotoba": "部分",
+            "hiragana": "ぶぶん",
+            "betonamu": "Bộ phận ",
+            "tsukaikata": "この部分だけを変更する\r\n自分の弱い部分と向き合い、乗り越えていく"
+        },
+        {
+            "kotoba": "前半",
+            "hiragana": "ぜんはん",
+            "betonamu": "Nửa trước",
+            "tsukaikata": "試合の前半が終わった\r\n10代前半の少女向きの服装"
+        },
+        {
+            "kotoba": "後半",
+            "hiragana": "こうはん",
+            "betonamu": "Nửa sau",
+            "tsukaikata": "後半の授業には練習問題があります。"
+        },
+        {
+            "kotoba": "ネットワーク部",
+            "betonamu": "Phần network",
+            "tsukaikata": "IPアドレスのネットワーク部"
+        },
+        {
+            "kotoba": "ホスト部",
+            "betonamu": "Phần host",
+            "tsukaikata": "IPアドレスのホスト部"
+        },
+        {
+            "kotoba": "繋げる",
+            "hiragana": "つなげる",
+            "betonamu": "Nối, kết nối",
+            "tsukaikata": "文と文を繋げる"
+        },
+        {
+            "kotoba": "住所",
+            "hiragana": "じゅうしょ",
+            "betonamu": "Địa chỉ",
+            "tsukaikata": "住所を間違えると、郵便物が届かないので、注意してください。"
+        },
+        {
+            "kotoba": "氏名",
+            "hiragana": "しめい",
+            "betonamu": "Tên",
+            "tsukaikata": "氏名の欄を忘れずに記入してください。",
+            "ruiji": "名前"
+        },
+        {
+            "kotoba": "例える",
+            "hiragana": "たとえる",
+            "betonamu": "Ví, so sánh",
+            "tsukaikata": "Hoaさんを花に例えると、陽周りになりますね"
+        },
+        {
+            "kotoba": "個々",
+            "hiragana": "ここ",
+            "betonamu": "Từng, mỗi",
+            "tsukaikata": "本プロジェクトの成功は、個々の能力を存分に出し切った結果である",
+            "ruiji": "各自、おのおの、"
+        },
+        {
+            "kotoba": "大規模",
+            "hiragana": "だいきぼ",
+            "betonamu": "Quy mô lớn",
+            "tsukaikata": "Huyさんは大規模のプロジェクトのPMをやっています。"
+        },
+        {
+            "kotoba": "中規模",
+            "hiragana": "ちゅうきぼ",
+            "betonamu": "Quy mô vừa",
+            "tsukaikata": "中規模の企業で仕事をしています。"
+        },
+        {
+            "kotoba": "小規模",
+            "hiragana": "しょうきぼ",
+            "betonamu": "Quy mô nhỏ",
+            "tsukaikata": "従業員の数が20人いる小規模な会社です。"
+        },
+        {
+            "kotoba": "最大",
+            "hiragana": "さいだい",
+            "betonamu": "Tối đa, nhiều nhất",
+            "tsukaikata": "このクラスには最大\b40人の学生が参加できます。"
+        },
+        {
+            "kotoba": "異なる",
+            "hiragana": "ことなる",
+            "betonamu": "Khác nhau",
+            "tsukaikata": "人によって考え方が異なります。"
+        },
+        {
+            "kotoba": "内訳",
+            "hiragana": "うちわけ",
+            "betonamu": "総額や総量について、その内容を項目別に分けたもの\r\n\r\nChi tiết, cụ thể, phân loại",
+            "tsukaikata": "公共事業費の総額は１億円だが、内訳は不明である。\r\n売り上げの内訳は次の通り。\r\n製品A100万円、製品B50万円、製品C20万円。"
+        },
+        {
+            "kotoba": "先頭",
+            "hiragana": "せんとう",
+            "betonamu": "Đầu, Trước ",
+            "tsukaikata": "ページの先頭\r\n行の先頭\r\n先頭に立っている人"
+        }
+    ]
+}

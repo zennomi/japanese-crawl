@@ -1,0 +1,464 @@
+﻿{
+    "sheet": [
+        {
+            "順番": "1",
+            "kotoba": "域内",
+            "hiragana": "いきない",
+            "betonamu": "Trong khu vực",
+            "tsukaikata": "域内貿易、東アジア域内経済関係"
+        },
+        {
+            "順番": "2",
+            "kotoba": "物理的",
+            "hiragana": "ぶつりてき",
+            "betonamu": "Mang tính vật lý",
+            "tsukaikata": "この素材は150℃まで加熱しても物理的な変化は起きない。",
+            "ruiji": "物質的\r\n＞＜精神的、心理的"
+        },
+        {
+            "順番": "3",
+            "kotoba": "広域",
+            "hiragana": "こういき",
+            "betonamu": "Khu vực rộng",
+            "tsukaikata": "広域交通制御\r\n事業を広域化する"
+        },
+        {
+            "順番": "4",
+            "kotoba": "構築",
+            "hiragana": "こうちく",
+            "betonamu": "Xây dựng",
+            "tsukaikata": "データベース構築\r\nデータベースを構築する",
+            "ruiji": "作り、建設、建立、建築"
+        },
+        {
+            "順番": "5",
+            "kotoba": "私有地",
+            "hiragana": "しゆうち",
+            "betonamu": "Đất tư nhân"
+        },
+        {
+            "順番": "6",
+            "kotoba": "超える",
+            "hiragana": "こえる",
+            "betonamu": "Vượt qua",
+            "tsukaikata": "お湯は100度を超えられない"
+        },
+        {
+            "順番": "7",
+            "kotoba": "勝手に",
+            "hiragana": "かってに",
+            "betonamu": "Tuỳ tiện, tự ý",
+            "tsukaikata": "勝手にパソコンの電源が入る\r\n勝手なことばかり言ってごめんなさい"
+        },
+        {
+            "順番": "8",
+            "kotoba": "敷設する",
+            "hiragana": "ふせつする",
+            "betonamu": "Xây dựng, lắp đặt",
+            "tsukaikata": "鉄道を敷設する"
+        },
+        {
+            "順番": "9",
+            "kotoba": "電気通信",
+            "hiragana": "でんきつうしん",
+            "betonamu": "Điện tử viễn thông",
+            "tsukaikata": "電気通信装置、電気通信システム"
+        },
+        {
+            "順番": "10",
+            "kotoba": "事業者",
+            "hiragana": "じぎょうしゃ",
+            "betonamu": "Nhà cung cấp, doanh nghiệp",
+            "tsukaikata": "通産省に電力事業者として許可申請を行う"
+        },
+        {
+            "順番": "11",
+            "kotoba": "形態",
+            "hiragana": "けいたい",
+            "betonamu": "Kiểu, hình thái",
+            "tsukaikata": "政治形態、開発形態",
+            "ruiji": "形、形状"
+        },
+        {
+            "順番": "12",
+            "kotoba": "分類",
+            "hiragana": "ぶんるい",
+            "betonamu": "Phân loại",
+            "tsukaikata": "食品分類表\r\n魚を分類する",
+            "ruiji": "カテゴリー化、種別"
+        },
+        {
+            "順番": "13",
+            "kotoba": "専用線方式",
+            "hiragana": "せんようせんほうしき",
+            "betonamu": "Phương thức kết nối dành riêng (chuyên dụng)"
+        },
+        {
+            "順番": "14",
+            "kotoba": "回線交換方式",
+            "hiragana": "かいせんこうかんほうしき",
+            "betonamu": "Phương thức chuyển mạch "
+        },
+        {
+            "順番": "15",
+            "kotoba": "パケット交換方式",
+            "betonamu": "Phương thức chuyển mạch gói"
+        },
+        {
+            "順番": "16",
+            "kotoba": "ATM交換方式",
+            "betonamu": "Phương thức chuyển ATM"
+        },
+        {
+            "順番": "17",
+            "kotoba": "独り占めする",
+            "hiragana": "ひとりじめする",
+            "betonamu": "Độc chiếm, độc quyền",
+            "tsukaikata": "弟がいつもテレビを独占している"
+        },
+        {
+            "順番": "18",
+            "kotoba": "独占する",
+            "hiragana": "どくせんする",
+            "betonamu": "Độc \r\nquyền"
+        },
+        {
+            "順番": "19",
+            "kotoba": "安定する",
+            "hiragana": "あんていする",
+            "betonamu": "Ổn định",
+            "tsukaikata": "安定した生活をする"
+        },
+        {
+            "順番": "20",
+            "kotoba": "大量",
+            "hiragana": "だいりょう",
+            "betonamu": "Lượng lớn",
+            "tsukaikata": "雨が大量に降る",
+            "ruiji": "多量、豊満、たくさん"
+        },
+        {
+            "順番": "21",
+            "kotoba": "通信料金",
+            "hiragana": "つうしんりょうきん",
+            "betonamu": "Chi phí truyền gửi data"
+        },
+        {
+            "順番": "22",
+            "kotoba": "相手先",
+            "hiragana": "あいてさき",
+            "betonamu": "Bên đối phương"
+        },
+        {
+            "順番": "23",
+            "kotoba": "交換機",
+            "hiragana": "こうかんき",
+            "betonamu": "Thiết bị chuyển mạch"
+        },
+        {
+            "順番": "24",
+            "kotoba": "通す",
+            "hiragana": "とおす",
+            "betonamu": "Thông qua",
+            "tsukaikata": "この本に目を通しておくろいい\r\n学生証を忘れたので通してもらえなかった",
+            "ruiji": "通り過ぎる、過ぎる"
+        },
+        {
+            "順番": "25",
+            "kotoba": "確保する",
+            "hiragana": "かくほする",
+            "betonamu": "Đảm bảo",
+            "tsukaikata": "国内の安定、治安の確保\r\n安定と繁栄を確保する"
+        },
+        {
+            "順番": "26",
+            "kotoba": "公衆電話",
+            "hiragana": "こうしゅう",
+            "betonamu": "Điện thoại công cộng"
+        },
+        {
+            "順番": "27",
+            "kotoba": "回線",
+            "hiragana": "かいせん",
+            "betonamu": "Đường truyền",
+            "tsukaikata": "アクセス回線、サービスへの接続回線"
+        },
+        {
+            "順番": "28",
+            "kotoba": "課金",
+            "hiragana": "かきん",
+            "betonamu": "Thanh toán, trả tiền",
+            "tsukaikata": "カード課金システム"
+        },
+        {
+            "順番": "29",
+            "kotoba": "従量制",
+            "hiragana": "じゅうりょうせい",
+            "betonamu": "Kiểu chi trả theo số lượng \r\n(dùng bao nhiêu trả bấy nhiêu)"
+        },
+        {
+            "順番": "30",
+            "kotoba": "効率的",
+            "hiragana": "こうりつてき",
+            "betonamu": "Tính hiệu quả",
+            "tsukaikata": "仕事をするのにきびきびして効率的である\r\n効率的なコスト管理システムを作り上げる",
+            "ruiji": "能率的、合理的"
+        },
+        {
+            "順番": "31",
+            "kotoba": "費用",
+            "hiragana": "ひよう",
+            "betonamu": "Chi phí",
+            "tsukaikata": "旅の費用\r\n費用を支払う",
+            "ruiji": "コスト、代金、価格、料金"
+        },
+        {
+            "順番": "32",
+            "kotoba": "単位",
+            "hiragana": "たんい",
+            "betonamu": "Đơn vị",
+            "tsukaikata": "メートルは長さの単位である"
+        },
+        {
+            "順番": "33",
+            "kotoba": "固定料金制",
+            "hiragana": "こていりょうきんせい",
+            "betonamu": "Kiểu chi trả cố định"
+        },
+        {
+            "順番": "34",
+            "kotoba": "取り入れる",
+            "hiragana": "とりいれる",
+            "betonamu": "Kết hợp ",
+            "tsukaikata": "新技術を取り入れる",
+            "ruiji": "取り込む、綜合、組込む"
+        },
+        {
+            "順番": "35",
+            "kotoba": "あらゆる",
+            "betonamu": "Tất cả, mỗi, mọi",
+            "tsukaikata": "あらゆる階級の人々"
+        },
+        {
+            "順番": "36",
+            "kotoba": "種類",
+            "hiragana": "しゅるい",
+            "betonamu": "Loại",
+            "tsukaikata": "２種類の調査を行う\r\nあらゆる種類のエネルギーの使用効率",
+            "ruiji": "カテゴリ、部類、品種"
+        },
+        {
+            "順番": "37",
+            "kotoba": "固定長",
+            "hiragana": "こていちょう",
+            "betonamu": "Độ dài cố định"
+        },
+        {
+            "順番": "38",
+            "kotoba": "セル",
+            "betonamu": "Cell"
+        },
+        {
+            "順番": "39",
+            "kotoba": "区切り",
+            "hiragana": "くぎり",
+            "betonamu": "Phân chia, tách biệt",
+            "tsukaikata": "時の区切り、音楽の一区切り\r\n区切り文字で始まる文字列"
+        },
+        {
+            "順番": "40",
+            "kotoba": "宛先",
+            "hiragana": "あてさき",
+            "betonamu": "Nơi đến",
+            "tsukaikata": "電子メールの宛先\r\n宛先は必ずはっきり書くように"
+        },
+        {
+            "順番": "41",
+            "kotoba": "現在",
+            "hiragana": "げんざい",
+            "betonamu": "Hiện tại"
+        },
+        {
+            "順番": "42",
+            "kotoba": "個人向け",
+            "hiragana": "こじんむけ",
+            "betonamu": "Hướng đến, dành cho cá nhân"
+        },
+        {
+            "順番": "43",
+            "kotoba": "会社向け",
+            "hiragana": "かいしゃむけ",
+            "betonamu": "Hướng đến, dành cho công ty"
+        },
+        {
+            "順番": "44",
+            "kotoba": "提供",
+            "hiragana": "ていきょう",
+            "betonamu": "Cung cấp",
+            "tsukaikata": "条件として提供する",
+            "ruiji": "供給、供与、供する"
+        },
+        {
+            "順番": "45",
+            "kotoba": "代表的",
+            "hiragana": "だいひょうてき",
+            "betonamu": "Tính đại diện, tiêu biểu",
+            "tsukaikata": "代表的な学生",
+            "ruiji": "特有、類型的"
+        },
+        {
+            "順番": "46",
+            "kotoba": "説明する",
+            "hiragana": "せつめいする",
+            "betonamu": "Giải thích",
+            "tsukaikata": "この問題について彼に具体的に説明したほうがいい"
+        },
+        {
+            "順番": "47",
+            "kotoba": "既存",
+            "hiragana": "きぞん",
+            "betonamu": "Có sẵn",
+            "tsukaikata": "データベースにある既存データを変換する"
+        },
+        {
+            "順番": "48",
+            "kotoba": "上り",
+            "hiragana": "のぼり",
+            "betonamu": "Sự tăng lên, leo lên",
+            "tsukaikata": "坂を上り下りした",
+            "ruiji": "上がり、昇り、上げ"
+        },
+        {
+            "順番": "49",
+            "kotoba": "下り",
+            "hiragana": "くだり",
+            "betonamu": "Đi xuống, ra khỏi",
+            "ruiji": "降り、下がり、降下"
+        },
+        {
+            "順番": "50",
+            "kotoba": "非対称",
+            "hiragana": "ひたいしょう",
+            "betonamu": "Không cân đối",
+            "tsukaikata": "非対称的に配置された"
+        },
+        {
+            "順番": "51",
+            "kotoba": "特徴",
+            "hiragana": "とくちょう",
+            "betonamu": "Đặc trưng",
+            "tsukaikata": "特徴のない顔",
+            "ruiji": "特質、特性"
+        },
+        {
+            "順番": "52",
+            "kotoba": "周波数帯域",
+            "hiragana": "しゅうはすうたいいき",
+            "betonamu": "Băng tần"
+        },
+        {
+            "順番": "53",
+            "kotoba": "音声信号",
+            "hiragana": "おんせいしんごう",
+            "betonamu": "Tín hiệu âm thanh"
+        },
+        {
+            "順番": "54",
+            "kotoba": "分離",
+            "hiragana": "ぶんり",
+            "betonamu": "Phân tách",
+            "tsukaikata": "油の中の水が分離した",
+            "ruiji": "分立、分け"
+        },
+        {
+            "順番": "55",
+            "kotoba": "合成",
+            "hiragana": "ごうせい",
+            "betonamu": "Tổng hợp",
+            "ruiji": "組合せる、併す、合せる"
+        },
+        {
+            "順番": "56",
+            "kotoba": "スプリッタ",
+            "betonamu": "Bộ tách, bộ phân chia (Splitter)"
+        },
+        {
+            "順番": "57",
+            "kotoba": "アナログ信号",
+            "betonamu": "Tín hiệu analog"
+        },
+        {
+            "順番": "58",
+            "kotoba": "デジタル信号",
+            "betonamu": "Tín hiệu digital"
+        },
+        {
+            "順番": "59",
+            "kotoba": "変換",
+            "hiragana": "へんかん",
+            "betonamu": "Chuyển đổi",
+            "tsukaikata": "データ変換、信号変換器\r\nファイルを変換する",
+            "ruiji": "変更、入れ換える、付替える、"
+        },
+        {
+            "順番": "60",
+            "kotoba": "用いる",
+            "hiragana": "もちいる",
+            "betonamu": "Sử dụng",
+            "tsukaikata": "金を善く用いる",
+            "ruiji": "使う、利する、採用"
+        },
+        {
+            "順番": "61",
+            "kotoba": "ケーブル",
+            "betonamu": "Cáp (cable)"
+        },
+        {
+            "順番": "62",
+            "kotoba": "一般的",
+            "hiragana": "いっぱんてき",
+            "betonamu": "Thông \r\nthường",
+            "tsukaikata": "一般的な生活",
+            "ruiji": "全面的、不特定"
+        },
+        {
+            "順番": "63",
+            "kotoba": "速い",
+            "hiragana": "はやい",
+            "betonamu": "\r\nNhanh"
+        },
+        {
+            "順番": "64",
+            "kotoba": "遅い",
+            "hiragana": "おそい",
+            "betonamu": "\r\nChậm"
+        },
+        {
+            "順番": "65",
+            "kotoba": "必要",
+            "hiragana": "ひつよう",
+            "betonamu": "Cần thiết"
+        },
+        {
+            "順番": "66",
+            "kotoba": "光ファイバー",
+            "hiragana": "ひかりふぁいばー",
+            "betonamu": "Cáp quang"
+        },
+        {
+            "順番": "67",
+            "kotoba": "統合",
+            "hiragana": "とうごう",
+            "betonamu": "Tích hợp",
+            "tsukaikata": "私は事業所統合のプロジェクトメンバーに選ばれました\r\n二つの会社を一つに統合する",
+            "ruiji": "組合、連合、接合"
+        },
+        {
+            "順番": "68",
+            "kotoba": "実現",
+            "hiragana": "じつげん",
+            "betonamu": "Thực hiện ",
+            "tsukaikata": "実現不能な条件\r\n夢が実現した"
+        }
+    ]
+}

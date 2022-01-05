@@ -1,0 +1,184 @@
+﻿{
+    "sheet": [
+        {
+            "順番": "1",
+            "kotoba": "分割",
+            "hiragana": "ぶんわり",
+            "betonamu": "Phân loại, phân chia",
+            "tsukaikata": "画像データを分割し、分割された画像データを配信する\r\n私たちはその交際費を分割で支払います。"
+        },
+        {
+            "順番": "2",
+            "kotoba": "単位",
+            "hiragana": "たんい",
+            "betonamu": "Đơn vị",
+            "tsukaikata": "日本のお金の単位は円です"
+        },
+        {
+            "順番": "3",
+            "kotoba": "運用",
+            "hiragana": "うんよう",
+            "betonamu": "Vận dụng, sử dụng",
+            "tsukaikata": "機器運用管理システム、保守運用システム\r\n機械を運用する\r\n法律を運用する"
+        },
+        {
+            "順番": "4",
+            "kotoba": "膨大",
+            "hiragana": "ぼうだい",
+            "betonamu": "To lớn, khổng lồ",
+            "tsukaikata": "膨大な規模の企画\r\n膨大な作業標準に対して工数を自動的に付与するシステムを提案する"
+        },
+        {
+            "順番": "5",
+            "kotoba": "一斉",
+            "hiragana": "いっせい",
+            "betonamu": "Cùng lúc, đồng loạt",
+            "tsukaikata": "学生は皆一斉に立ち上がった"
+        },
+        {
+            "順番": "6",
+            "kotoba": "やり取りする",
+            "hiragana": "やりとりする",
+            "betonamu": "Trao đổi, giao dịch",
+            "tsukaikata": "手紙のやり取りをする\r\nメッセージをやり取りする"
+        },
+        {
+            "順番": "7",
+            "kotoba": "通信速度",
+            "hiragana": "つうしんそくど",
+            "betonamu": "Tốc độ truyền tin",
+            "tsukaikata": "通信速度は 38400bps に設定する"
+        },
+        {
+            "順番": "8",
+            "kotoba": "細分化する",
+            "hiragana": "さいぶんかする",
+            "betonamu": "Chia nhỏ",
+            "tsukaikata": "目的を達成できるように、実施することを細分化する必要がある"
+        },
+        {
+            "順番": "9",
+            "kotoba": "割合",
+            "hiragana": "わりあい",
+            "betonamu": "Tỷ lệ",
+            "tsukaikata": "老齢者の占める割合が大きい社会"
+        },
+        {
+            "順番": "10",
+            "kotoba": "増やす",
+            "hiragana": "ふやす",
+            "betonamu": "Tăng",
+            "tsukaikata": "人数を増やす"
+        },
+        {
+            "順番": "11",
+            "kotoba": "拡張する",
+            "hiragana": "かくちょうする",
+            "betonamu": "Mở rộng",
+            "tsukaikata": "権限を拡張する\r\n※ ファイル名の拡張子"
+        },
+        {
+            "順番": "12",
+            "kotoba": "取り出す",
+            "hiragana": "とりだす",
+            "betonamu": "Lấy ra",
+            "tsukaikata": "箱からりんごを取り出す。"
+        },
+        {
+            "順番": "13",
+            "kotoba": "合計",
+            "hiragana": "ごうけい",
+            "betonamu": "Tổng cộng",
+            "tsukaikata": "その事故の犠牲者は合計51名になった\r\n合計にする、合計する"
+        },
+        {
+            "順番": "14",
+            "kotoba": "並べる",
+            "hiragana": "ならべる",
+            "betonamu": "Xếp hàng",
+            "tsukaikata": "料理を盛って並べる"
+        },
+        {
+            "順番": "15",
+            "kotoba": "以外",
+            "hiragana": "いがい",
+            "betonamu": "Ngoài ra",
+            "tsukaikata": "彼らは授業以外も日本語で話す"
+        },
+        {
+            "順番": "16",
+            "kotoba": "スラッシュ",
+            "betonamu": "Dấu gạch chéo"
+        },
+        {
+            "順番": "17",
+            "kotoba": "表記",
+            "hiragana": "ひょうき",
+            "betonamu": "Cách viết",
+            "tsukaikata": "カタカナ表記の通りに発音する\r\nこのブログは日本語表記のみです"
+        },
+        {
+            "順番": "18",
+            "kotoba": "右側",
+            "hiragana": "みぎがわ",
+            "betonamu": "Bên phải",
+            "tsukaikata": "北を向くと、東は右側になる"
+        },
+        {
+            "順番": "19",
+            "kotoba": "付け加える",
+            "hiragana": "つけくわえる",
+            "betonamu": "Thêm, bổ sung",
+            "tsukaikata": "食物に味を付け加える\r\n情報や詳細を付け加える"
+        },
+        {
+            "順番": "20",
+            "kotoba": "短縮する",
+            "hiragana": "たんしゅくする",
+            "betonamu": "Rút ngắn",
+            "tsukaikata": "納期を短縮する"
+        },
+        {
+            "順番": "21",
+            "kotoba": "くっ付ける",
+            "hiragana": "くっつける",
+            "betonamu": "Gắn vào",
+            "tsukaikata": "2つの部分をくっつける\r\n安全のためにお互いをくっつける"
+        },
+        {
+            "順番": "22",
+            "kotoba": "及び",
+            "hiragana": "および",
+            "betonamu": "Và"
+        },
+        {
+            "順番": "23",
+            "kotoba": "特別",
+            "hiragana": "とくべつ",
+            "betonamu": "Đặc biệt",
+            "tsukaikata": "特別な思い出",
+            "ruiji": "特殊（＃、＄などの特殊記号）"
+        },
+        {
+            "順番": "24",
+            "kotoba": "働き",
+            "hiragana": "はたらき",
+            "betonamu": "Công việc",
+            "tsukaikata": "病気は働きの妨げになる"
+        },
+        {
+            "順番": "25",
+            "kotoba": "自体",
+            "hiragana": "じたい",
+            "betonamu": "Bản thân",
+            "tsukaikata": "このサービスをゲートウェイ自体の中に組み込むことができる"
+        },
+        {
+            "順番": "26",
+            "kotoba": "計算方法",
+            "hiragana": "けいさんほうほう",
+            "betonamu": "Phương pháp tính toán",
+            "tsukaikata": "授業の前に点数の計算方法を統一する必要がある"
+        }
+    ]
+}

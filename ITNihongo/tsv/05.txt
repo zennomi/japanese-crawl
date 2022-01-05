@@ -1,0 +1,49 @@
+﻿kotoba	hiragana	audio	betonamu	tsukaikata	ruiji	imi
+２進数	にしんすう	[sound:yomichan_audio_にしんすう_２進数.mp3]	Hệ nhị phân	コンピュータの世界では全てのデータを２進数で表します。<br>２進数というのは、0か1を使い、表現しています。	trống	trống
+管理	かんり	[sound:yomichan_audio_かんり_管理.mp3]	Quản lý	N + 管理<br>健康管理<br>スケジュール管理<br>管理 + N<br>管理教育<br>管理職<br>管理者<br>管理する<br>品質を管理する	trống	trống
+通信	つうしん	[sound:yomichan_audio_つうしん_通信.mp3]	Số lượng thiết bị truyền thông	通信台数はだいたい43億台です。	trống	trống
+最大	さいだい	[sound:yomichan_audio_さいだい_最大.mp3]	Tối đa, nhiều nhất	この部屋には最大30人が入れます<br>販売台数は過去の最大となった<br>この方法の最大の特徴はこれです	trống	trống
+世界中	せかいじゅう	[sound:yomichan_audio_せかいじゅう_世界中.mp3]	Khắp thế giới	インターネットさえあれば世界中のどこからでもアクセスできます。	trống	trống
+爆発的	ばくはつてき	[sound:yomichan_audio_ばくはつてき_爆発的.mp3]	Một cách bùng nổ, một cách nhanh chóng	爆発的に増える<br>爆発的な成長を続ける<br>爆発的な売れ行き	trống	trống
+足りる	たりる	[sound:yomichan_audio_たりる_足りる.mp3]	<br>Đủ	人が足りている<br>コンピュータ台数が足りていない	trống	trống
+約	やく	[sound:yomichan_audio_やく_約.mp3]	<br>Khoảng	会社からうちまでバイクで行くと約40分が掛かります。	trống	trống
+節約	せつやく	[sound:yomichan_audio_せつやく_節約.mp3]	Tiết kiệm 	水を節約する<br>お金を節約する	trống	trống
+グローバルＩＰアドレス	グローバルアイピーアドレス	[sound:yomichan_audio_グローバルアイピーアドレス_グローバルＩＰアドレス.mp3]	Địa chỉ IP công cộng 	trống	trống	trống
+プライベートＩＰアドレス	プライベートアイピーアドレス	[sound:yomichan_audio_プライベートアイピーアドレス_プライベートＩＰアドレス.mp3]	Địa chỉ IP riêng	trống	trống	trống
+使い分ける	つかいわける	[sound:yomichan_audio_つかいわける_使い分ける.mp3]	Sử dụng phù hợp, Sử dụng đúng	道具をうまく使い分ける	trống	trống
+割り振る	わりふる	[sound:yomichan_audio_わりふる_割り振る.mp3]	Phân phát, Phân chia, phân công	メンバーに仕事を割り振る	trống	trống
+機関	きかん	[sound:yomichan_audio_きかん_機関.mp3]	Cơ quan	N+機関<br>教育機関<br>財政機関<br>医療機関	trống	trống
+重複	ちょうふく	[sound:yomichan_audio_ちょうふく_重複.mp3]	Trùng lặp	先ほどの話と重複しますが<br>申し込みが重複しています。	trống	trống
+発行	はっこう	[sound:yomichan_audio_はっこう_発行.mp3]	Phát hành	証明書を発行します<br>新聞を発行します<br>発行部数が多いです	trống	trống
+家庭	かてい	[sound:yomichan_audio_かてい_家庭.mp3]	Gia đình	明るい家庭を作る<br>私には家庭がある<br>家庭教師<br>家庭用品<br>家庭生活	trống	trống
+企業	きぎょう	[sound:yomichan_audio_きぎょう_企業.mp3]	Doanh nghiệp	大手企業<br>中小企業<br>個人企業<br>参加企業<br>企業秘密	trống	trống
+内	うち	[sound:yomichan_audio_うち_内.mp3]	Trong	家庭内<br>クラス内<br>会社内	trống	trống
+私的	してき	[sound:yomichan_audio_してき_私的.mp3]	Mang tính cá nhân, riêng tư	私的な感情で、色々と物事を決めてしまうのは良くないと思う。<br>全員で協力して進めるので、私的な行動をとらないように注意する。	trống	trống
+通信機器	つうしんきき	[sound:yomichan_audio_つうしんきき_通信機器.mp3]	Thiết bị truyền thông	情報通信機器<br>無線通信機器	trống	trống
+複数	ふくすう	[sound:yomichan_audio_ふくすう_複数.mp3]	Nhiều	複数の仕事から収入を得ています。<br>面接では複数の候補者がいることも多いです。	trống	trống
+共有	きょうゆう	[sound:yomichan_audio_きょうゆう_共有.mp3]	Chia sẻ	情報を共有する<br>本を共有して使うようにしてください	trống	trống
+先頭	せんとう	[sound:yomichan_audio_せんとう_先頭.mp3]	Đứng đầu 	彼女は列の先頭に並んでいます<br>彼が先頭を切って、難しい仕事に取り組み始めました	trống	trống
+始まる	はじまる	[sound:yomichan_audio_はじまる_始まる.mp3]	Bắt đầu 	ミーティングは今から始まる<br>いよいよ試合が始まる	trống	trống
+trống	ループバックアドレス	[sound:yomichan_audio_ループバックアドレス.mp3]	Địa chỉ loopback	ループバックアドレスは、「127.0.0.1」のことです。	trống	trống
+自分自身	じぶんじしん	[sound:yomichan_audio_じぶんじしん_自分自身.mp3]	自分を強めている言葉<br>Bản thân	それは私自分自身の問題です	trống	trống
+特別	とくべつ	[sound:yomichan_audio_とくべつ_特別.mp3]	Đặc biệt	特別な教科書を使って教えています	trống	trống
+trống	ローカルホスト	[sound:yomichan_audio_ローカルホスト.mp3]	Local host	自分のPCはローカルホストでネットワークで<br>つながっている相手のコンピュータはリモートホストになります。	trống	trống
+Webサーバ	trống	[sound:yomichan_audio_undefined_Webサーバ.mp3]	Web server 	Webサーバに対してリクエストを送信します	trống	trống
+動かす	うごかす	[sound:yomichan_audio_うごかす_動かす.mp3]	Chuyển động, hoạt động	サーバを動かす<br>人を動かす<br>体を動かす	trống	trống
+trống	ブラウザ	[sound:yomichan_audio_ブラウザ.mp3]	Trình duyệt	HTML 形式で発行されたプレゼンテーションは、Web ブラウザで表示できます	trống	trống
+trống	マスカレード	[sound:yomichan_audio_マスカレード.mp3]	IP mặt nạ	IPマスカレードを用いた中継を可能にする	trống	trống
+相互	そうご	[sound:yomichan_audio_そうご_相互.mp3]	Hoán đổi lẫn nhau	問題について意見の相互交換をしました	trống	trống
+技術	ぎじゅつ	[sound:yomichan_audio_ぎじゅつ_技術.mp3]	Kỹ thuật, công nghệ	技術革新<br>先端技術<br>生産技術<br>技術力を高める	trống	trống
+通常	つうじょう	[sound:yomichan_audio_つうじょう_通常.mp3]	Thông thường, bình thường	通常7時に起きる<br>通常通りに行う	trống	trống
+trống	ルーター	[sound:yomichan_audio_ルーター.mp3]	Bộ định tuyến	ルータを使うことによってどういう経路で<br>データを配信するか選択してくれる	trống	trống
+１対１	いちたいいち	[sound:yomichan_audio_いちたいいち_１対１.mp3]	1-1	社長と１対１で面接することになりました	trống	trống
+相互	そうご	[sound:yomichan_audio_そうご_相互.mp3]	Hoán chuyển lẫn nhau	文字列と文字コードの相互変換です	trống	trống
+可能性	かのうせい	[sound:yomichan_audio_かのうせい_可能性.mp3]	Khả năng	可能性がある<br>無限の可能性<br>成功の可能性が高い	trống	trống
+多	た	[sound:yomichan_audio_た_多.mp3]	Nhiều - 1	面接官と志望者が多対１で行われる最終面接です。	trống	trống
+同時に	どうじに	[sound:yomichan_audio_どうじに_同時に.mp3]	Đồng thời	夜が明けるとどうじに出発する	trống	trống
+自動的	じどうてき	[sound:yomichan_audio_じどうてき_自動的.mp3]	Tự động 	PCが自動的に再起動した	trống	trống
+割り当てる	わりあてる	[sound:yomichan_audio_わりあてる_割り当てる.mp3]	Gán, phân chia	毎日メンバーに仕事をあり当てる	trống	trống
+同じく	おなじく	[sound:yomichan_audio_おなじく_同じく.mp3]	Giống<br>その前に述べた事柄と違いがないことを示す言葉	彼と同じくベトナム出身です。	同じで<br>同様に	trống
+回収	かいしゅう	[sound:yomichan_audio_かいしゅう_回収.mp3]	Thu hồi	古本を回収する	trống	trống
+手動	しゅどう	[sound:yomichan_audio_しゅどう_手動.mp3]	Thủ công	手動バックアップを実行する<br>手動式<br>手動ブレーキ	trống	trống
+効率的	こうりつてき	[sound:yomichan_audio_こうりつてき_効率的.mp3]	Một cách hiệu quả	仕事を効率的に進めるためにはTodo リストを作成する必要があると思います	trống	trống

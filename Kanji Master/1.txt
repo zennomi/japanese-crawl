@@ -1,0 +1,119 @@
+﻿配る	くばる 	PHỐI	Phân phát
+配達	はいたつ 	PHỐI ĐẠT	 Phân phối, giao hàng
+心配	しんぱい 	TÂM PHỐI	 Lo lắng
+配分	はいぶん 	PHỐI PHÂN	phân bổ, phân chia
+届く	とどく 	GIỚI	 Được giao tới, tới ~
+届ける	とどける 	GIỚI	Giao, đưa đến, chuyển đến, trình báo
+欠席届	けっせきとどけ 	KHIẾM TỊCH GIỚI	đơn xin nghỉ học
+渡る	わたる 	ĐỘ	Băng qua
+渡す	わたす 	ĐỘ	Trao cho
+渡り鳥	わたりどり	ĐỘ ĐIỂU	chim di cư
+乗車券	じょうしゃけん 	THỪA XA KHOÁN	Vé xe, vé tàu
+渡航	とこう 	ĐỘ HÀNG	việc xuất ngoại bằng đường hàng không hoặc đường biển
+入場券	にゅうじょうけん 	NHẬP TRƯỜNG KHOÁN	vé vào cửa
+定期券	ていきけん 	ĐỊNH KỲ KHOÁN	Vé định kì, vé tháng
+旅券	りょけん 	LỮ KHOÁN	hộ chiếu
+証券	しょうけん 	CHỨNG KHOÁN	chứng khoán
+招く	まねく 	CHIÊU, TRIỀU	mời, rủ
+手招き（をする）	てまねき 	THỦ CHIÊU/ TRIỀU	Vẫy tay
+招待	しょうたい 	CHIÊU／TRIỀU ĐÃI	chiêu đãi, mời
+招待状	しょうたいじょう 	CHIÊU ĐÃI TRẠNG	 thiệp mời
+招集	しょうしゅう 	CHIÊU/ TRIỀU TẬP	Triệu tập
+贈る	おくる 	TẶNG	 tặng
+贈り物	おくりもの 	TẶNG VẬT	quà tặng
+贈答品	ぞうとうひん 	TẶNG ĐÁP PHẨM	quà tặng (thường được dùng ở các dịp quan trọng trong năm như đám cưới, sinh em bé, đám tang,...)
+寄贈	きぞう 	KÍ TẶNG 	 Sự tặng; sự cho; sự biếu
+含む	ふくむ 	HÀM	bao gồm （mang tính khách quan, chỉ trạng thái) トマトはビタミンAを含んでいる。
+含める	ふくめる 	HÀM	gộp lại, gom lại 家族は私を含めて五人です。
+含有量	がんゆうりょう 	HÀM HỮU LƯỢNG	hàm lượng
+混じる	まじる 	HỖN	bị lẫn (vẫn có thể nhận được ra được sự khác biệt) 大人たちの中に子どもが数人混じっている
+混ざる	まざる 	HỖN	Được trộn, được hòa trộn (không nhận ra được sự khác biệt, rất khó tách khỏi nhau) 砂糖の中に塩が混ざる。
+混ぜる	まぜる 	HỖN	Trộn, trộn lẫn, pha trộn
+混む	こむ 	HỖN	đông đúc
+混雑	こんざつ 	HỖN TẠP	Đông đúc, tắc nghẽn
+混乱	こんらん 	HỖN LOẠN	hỗn loạn
+溶ける	とける 	DUNG（自）	 	chảy ra (kim loại), tan ra (băng, tuyết)
+溶かす	とかす 	DUNG（他）		làm nóng chảy bằng nhiệt
+溶く	とく DUNG （他）	khuấy (trứng, bột..) 卵を溶く
+溶岩	ようがん 	DUNG NHAM	dung nham
+汁	しる 	TRẤP, CHẤP	 Nước ép hoa quả; súp
+果汁	かじゅう 	QUẢ TRẮP/ CHẤP	nước ép hoa quả
+丼	どんぶり 	ĐẢM	 Bát sứ (thường dùng để gọi tên các phần cơm)
+天丼	てんどん 	THIÊN ĐẢM	てんぷら丼 (どんぶり) 」の略 Cơm chiên tempura
+盛る	もる 	THỊNH	làm đầy, đổ đầy
+大盛り	おおもり 	ĐẠI THỊNH	suất lớn
+盛んな	さかんな 	THỊNH	được ưa chuộng, quy mô hoành tráng, long trọng  欧米ではサッカーが盛んだ ; 貿易が盛んになる
+盛大	せいだい	THỊNH ĐẠI 	Hoành tráng, long trọng, linh đình
+契約	けいやく 	KHẾ ƯỚC	Hợp đồng
+契約書	けいやくしょ 	KHẾ ƯỚC THƯ	bản hợp đồng
+契機	けいき 	KHẾ CƠ	cơ hội, dịp
+越す	こす VIỆT	 vượt quá, vượt qua / kính ngữ của 来る ・ 山を越す	・ また お越してくださいませ。
+越える	こえる VIỆT	Vượt qua/ vượt lên (khó khăn, trở ngại) ・ 塀を超える	・ 言葉の壁を越えて外国人と友だちになる
+追い越す	おいこす 	TRUY VIỆT	chạy vượt qua 黒い車に追い越された
+優越感	ゆうえつかん 	ƯU VIỆT CẢM	tự cao, tự đại 自分が他人より優れた才能があるからといって、優越感に浸ってはいけない。
+家賃	やちん 	GIA NHẤN	tiền nhà, tiền thu nhà
+運賃	うんちん 	VẬN NHẤN	 cước vận chuyển
+賃金	ちんぎん 	NHẤN KIM	 Tiền công
+賃貸	ちんたい 	NHẪM THẢI	Sự cho thuê 賃貸マンション
+仮免許	かりめんきょ 	GIẢ MIỄN HỨA	Giấy phép tạm thời
+仮定	かてい 	GIẢ ĐỊNH	giả định
+仮説	かせつ 	GIẢ THUYẾT	Giả thuyết
+仮病	けびょう 	GIẢ BỆNH	giả vờ ốm
+証明	しょうめい 	CHỨNG MINH	 chứng minh
+証言	しょうげん 	CHỨNG NGÔN 	lời làm chứng
+保証人	ほしょうにん 	BẢO CHỨNG NHÂN	người bảo lãnh
+証明書	しょうめいしょ 	CHỨNG MINH THƯ	giấy tờ tùy thân 身分証明書
+免許証	めんきょしょう 	MIỄN HỨA CHỨNG	giấy phép, chứng chỉ 運転免許証
+地域	ちいき 	ĐỊA VỰC	vùng, vùng lãnh thổ
+区域	くいき 	KHU VỰC	khu vực
+領域	りょういき 	LÃNH VỰC	Lãnh thổ / lĩnh vực ・他国の領域を侵す ; 理論物理学の領域
+流域	りゅういき 	LƯU VỰC	Lưu vực (sông suối)
+雑音	ざつおん 	TẠP ÂM	Tạp âm
+雑談	ざつだん 	TẠP ĐÀM	trò chuyện, chuyện phiếm
+複雑	ふくざつ（な) 	PHỨC TẠP	phức tạp
+雑誌	ざっし 	TẠP CHÍ	tạp chí
+日誌	にっし 	NHẬT CHÍ	sổ ghi chép hàng ngày 学級日誌
+文芸誌	ぶんげいし 	VĂN VÂN CHÍ	tạp chí văn nghệ
+刊行	かんこう 	KHAN HÀNH	phát hành, xuất bản (báo, tạp chí, sách...)
+朝刊	ちょうかん 	TRIỀU SAN	báo phát hành buổi sáng
+夕刊	ゆうかん 	TỊCH SAN	báo phát hành buổi chiều
+週刊誌	しゅうかんし 	CHU SAN CHÍ	tạp chí hàng tuần, tuần san
+並べる	ならべる 	TỊNH	sắp xếp, bài trí
+並ぶ	ならぶ 	TỊNH	đứng thành hàng, xếp hàng
+並	なみ 	TỊNH	1. Bình thường	並みの品 2. Giống như, tương đương ; 例年並みの気候 （khí hậu giống như mọi năm)
+人並み	ひとなみ 	NHÂN TỊNH	giống mọi người
+巻く	まく 	QUYỂN	choàng, quấn, bọc
+上巻	じょうかん 	THƯỢNG QUYỂN	quyển thượng （tập trước)
+下巻	げかん 	HẠ QUYỂN	quyển hạ (tập sau)
+全巻	ぜんかん 	TOÀN QUYỂN	toàn tập
+著す	あらわす 	TRƯỚC, TRỨ	viết (để xuất bản, công bố rộng rãi)
+著しい	いちじるしい 	TRƯỚC, TRỨ	đáng kể, ~ một cách rõ rệt
+著名人	ちょめいじん 	TRỨ DANH NHÂN	người nổi tiếng
+著書	ちょしょ 	TRỨ THƯ	tác phẩm
+著者	ちょしゃ 	TRƯỚC, TRỨ GIẢ	tác giả, nhà văn
+名著	めいちょ 	DANH TRỨ	kiệt tác
+居間	いま 	CƯ GIAN, GIÁN	phòng khách
+居留守	いるす 	CƯ LƯU THỦ	ở nhà mà giả vờ là vắng nhà
+居酒屋	いざかや 	CƯ TỬU ỐC	quán rượu; quán nhậu
+住居	じゅうきょ 	TRÚ CƯ	chỗ cư ngụ, chỗ ở
+同居	どうきょ 	ĐỒNG CƯ	sống chung, ở chung
+庭	にわ 	ĐÌNH	sân, sân vườn
+校庭	こうてい 	HIỆU ĐÌNH	sân trường
+庭園	ていえん 	ĐÌNH VIÊN	vườn
+家庭	かてい 	GIA ĐÌNH	gia đình (nhấn mạnh về môi trường mình lớn lên, cùng ba mẹ, người thân...)
+清い	きよい 	THANH	sạch, trong lành
+清まる	きよまる 	THANH （自）	Được làm cho sạch
+清める	きよめる 	THANH（他）	làm sạch
+清書	せいしょ 	THANH THƯ	viết / biên soạn lại bản thảo (ghi chép lại 1 cách sạch đẹp)
+掃く	はく 	TẢO	quét, chải
+掃除	そうじ 	TẢO TRỪ	dọn dẹp, quét dọn
+清掃	せいそう 	THANH TẢO	dọn dẹp sạch sẽ
+整える	ととのえる 	CHỈNH	chuẩn bị / điều chỉnh ; 夕食を整える ;  服装を整える
+整う	ととのう 	CHỈNH	được chuẩn bị
+整理	せいり 	CHỈNH LÍ	sắp xếp
+汚す	よごす 	Ô（他）	làm bẩn
+汚れる	よごれる 	Ô（自）	bị bẩn, nhiễm bẩn
+汚い	きたない 	Ô	dơ, bẩn
+汚職	おしょく 	Ô CHỨC	tham nhũng
+汚水	おすい 	Ô THỦY	nước bẩn
+汚染	おせん 	Ô NHIỄM	ô nhiễm

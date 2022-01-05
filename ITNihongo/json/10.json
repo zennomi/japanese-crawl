@@ -1,0 +1,154 @@
+﻿{
+    "sheet": [
+        {
+            "順番": "1",
+            "kotoba": "端末",
+            "hiragana": "たんまつ",
+            "betonamu": "Thiết bị đầu cuối",
+            "tsukaikata": "初期のビデオ表示端末は、CPUはなく個別の論理回路を使っている。"
+        },
+        {
+            "順番": "2",
+            "kotoba": "役割",
+            "hiragana": "やくわり",
+            "betonamu": "Vai trò",
+            "tsukaikata": "重要な役割を果たす",
+            "ruiji": "勤め、分担、役目"
+        },
+        {
+            "順番": "3",
+            "kotoba": "信号波形",
+            "hiragana": "しんごうはけい",
+            "betonamu": "Dạng sóng tín hiệu",
+            "tsukaikata": "信号波形の規格値に対するマージンを知るための手段を提供する"
+        },
+        {
+            "順番": "4",
+            "kotoba": "増幅（する）",
+            "hiragana": "ぞうふく",
+            "betonamu": "Khuếch đại",
+            "tsukaikata": "増幅器は、支持部材に取り付けられ、送信信号を増幅する。"
+        },
+        {
+            "順番": "5",
+            "kotoba": "距離",
+            "hiragana": "きょり",
+            "betonamu": "Khoảng cách",
+            "tsukaikata": "距離を足で測る",
+            "ruiji": "差異、差、隔り"
+        },
+        {
+            "順番": "6",
+            "kotoba": "延長する",
+            "hiragana": "えんちょうする",
+            "betonamu": "Mở rộng",
+            "tsukaikata": "期限を延長する"
+        },
+        {
+            "順番": "7",
+            "kotoba": "同一",
+            "hiragana": "どういつ",
+            "betonamu": "Cùng, đồng nhất",
+            "tsukaikata": "各ユニットデータは同一の時間長及び同一のデータサイズとなっている",
+            "ruiji": "同じ、同様、等しい"
+        },
+        {
+            "順番": "8",
+            "kotoba": "スイッチングハブ",
+            "hiragana": "(Switching hub)",
+            "betonamu": "Bộ chuyển mạch"
+        },
+        {
+            "順番": "9",
+            "kotoba": "特に",
+            "hiragana": "とくに",
+            "betonamu": "Đặc biệt",
+            "tsukaikata": "特に問題はない\r\n今朝は特に寒い"
+        },
+        {
+            "順番": "10",
+            "kotoba": "工場",
+            "hiragana": "こうじょう",
+            "betonamu": "Nhà máy, phân xưởng",
+            "tsukaikata": "食品を加工する工場"
+        },
+        {
+            "順番": "11",
+            "kotoba": "出荷する",
+            "hiragana": "しゅっかする",
+            "betonamu": "Xuất, xuất hàng giao hàng",
+            "tsukaikata": "出荷前に支払いをする予定です"
+        },
+        {
+            "順番": "12",
+            "kotoba": "固有",
+            "hiragana": "こゆう",
+            "betonamu": "Cố hữu, vốn có",
+            "tsukaikata": "企業固有の文化\r\n光沢は金の固有の性質である"
+        },
+        {
+            "順番": "13",
+            "kotoba": "相互",
+            "hiragana": "そうご",
+            "betonamu": "Sự tương hỗ, qua lại",
+            "tsukaikata": "相互の関係\r\n相互に通信できるように設定した",
+            "ruiji": "特有, 独特"
+        },
+        {
+            "順番": "14",
+            "kotoba": "翻訳（する）",
+            "hiragana": "ほんやくする",
+            "betonamu": "Dịch, giải mã",
+            "tsukaikata": "この小説は英語に翻訳されている\r\n相互に通信できるように翻訳が必要です"
+        },
+        {
+            "順番": "15",
+            "kotoba": "ベンダ",
+            "hiragana": "(Vendor)",
+            "betonamu": "Người bán, Nhà cung cấp"
+        },
+        {
+            "順番": "16",
+            "kotoba": "製造",
+            "hiragana": "せいぞう",
+            "betonamu": "Sự chế tạo, sản xuất",
+            "tsukaikata": "製造品、製造元\r\n薬を製造する",
+            "ruiji": "制作、産み作り\r\n上げる、製する、作出す"
+        },
+        {
+            "順番": "17",
+            "kotoba": "両方",
+            "hiragana": "りょうほう",
+            "betonamu": "Hai bên, hai hướng",
+            "tsukaikata": "左右両方の足\r\n両方とも知らない"
+        },
+        {
+            "順番": "18",
+            "kotoba": "片方",
+            "hiragana": "かたほう",
+            "betonamu": "Một bên, một hướng",
+            "tsukaikata": "片方の耳が聞こえない\r\n靴下の片方"
+        },
+        {
+            "順番": "19",
+            "kotoba": "用意する",
+            "hiragana": "よういする",
+            "betonamu": "Chuẩn bị, dự trù",
+            "tsukaikata": "適切な学習教材を用意する"
+        },
+        {
+            "順番": "20",
+            "kotoba": "習得する",
+            "hiragana": "しゅうとくする",
+            "betonamu": "Đạt được, thu được",
+            "tsukaikata": "ITの専門技術を習得する"
+        },
+        {
+            "順番": "21",
+            "kotoba": "後続",
+            "hiragana": " こうぞく",
+            "betonamu": "Kế tiếp, Tiếp theo",
+            "tsukaikata": "後続の文章を略する"
+        }
+    ]
+}

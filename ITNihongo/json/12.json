@@ -1,0 +1,220 @@
+﻿{
+    "sheet": [
+        {
+            "順番": "1",
+            "kotoba": "伝送速度",
+            "hiragana": "でんそうそくど",
+            "betonamu": "Tốc độ truyền",
+            "tsukaikata": "「伝送速度」という言葉はLANやWAN、通信で利用されるのに対し、\r\n「転送速度」はパソコンのパーツや周辺機器間での通信に使われるのが一般的である。",
+            "ruiji": "通信速度、転送速度"
+        },
+        {
+            "順番": "2",
+            "kotoba": "通信方法",
+            "hiragana": "つうしんほうほう",
+            "betonamu": "Phương pháp truyền thông",
+            "tsukaikata": "バス通信方法\r\nタグ通信方法\r\n光通信方法\r\n無線通信方法\r\n移動通信方法\r\n秘密通信方法"
+        },
+        {
+            "順番": "3",
+            "kotoba": "評価する",
+            "hiragana": "ひょうかする",
+            "betonamu": "Đánh giá",
+            "tsukaikata": "外見で人を評価する\r\n仕事ぶりを評価する",
+            "ruiji": "判定する、評する、格付けする、点数を付ける"
+        },
+        {
+            "順番": "4",
+            "kotoba": "基準",
+            "hiragana": "きじゅん",
+            "betonamu": "Tiêu chí",
+            "tsukaikata": "作品評価の基準、設置基準\r\n基準を設定する。\r\n品質の評価基準を設ける。\r\nそれは、世界共通の基準です。",
+            "ruiji": "尺度、水準、規準"
+        },
+        {
+            "順番": "5",
+            "kotoba": "通信速度",
+            "hiragana": "つうしんそくど",
+            "betonamu": "Tốc độ truyền thông",
+            "tsukaikata": "通信処理部は、選択されたデータ通信速度によって通信を行う。"
+        },
+        {
+            "順番": "6",
+            "kotoba": "ビット",
+            "betonamu": "Bit",
+            "tsukaikata": "ビットエラー、ビット長、ビットレート、ビット列"
+        },
+        {
+            "順番": "7",
+            "kotoba": "バイト",
+            "betonamu": "Byte",
+            "tsukaikata": "～バイトのデータ\r\nバイトとは、情報量の単位の一つで、8ビットのこと。"
+        },
+        {
+            "順番": "8",
+            "kotoba": "表す",
+            "hiragana": "あらわす",
+            "betonamu": "Diễn tả, biểu thị",
+            "tsukaikata": "喜びを顔に表す\r\n言葉に表すのは難しい",
+            "ruiji": "表現する、意味する"
+        },
+        {
+            "順番": "9",
+            "kotoba": "単位",
+            "hiragana": "たんい",
+            "betonamu": "Đơn vị, tín chỉ",
+            "tsukaikata": "長さの単位\r\n面積の単位\r\n体積の単位\r\n重さの単位\r\n単位が足りず留年する"
+        },
+        {
+            "順番": "10",
+            "kotoba": "運ぶ",
+            "hiragana": "はこぶ",
+            "betonamu": "Vận chuyển",
+            "tsukaikata": "けが人を救急車で運ぶ。\r\nこのバスは 90 人の乗客を運ぶ。",
+            "ruiji": "運搬、持ち運ぶ、運送"
+        },
+        {
+            "順番": "11",
+            "kotoba": "伝送する",
+            "hiragana": "でんそうする",
+            "betonamu": "Truyền",
+            "tsukaikata": "端末装置にデータを伝送する。\r\nデータの伝送遅れを最小にする。",
+            "ruiji": "受け渡しする、受け渡す、伝達する、転送する"
+        },
+        {
+            "順番": "12",
+            "kotoba": "伝送路",
+            "hiragana": "でんそうろ",
+            "betonamu": "Đường truyền",
+            "tsukaikata": "雑音のない伝送路\r\n雑音のある伝送路\r\n光ファイバ伝送路",
+            "ruiji": "通信路、伝送線路、"
+        },
+        {
+            "順番": "13",
+            "kotoba": "計算方法",
+            "hiragana": "けいさんほうほう",
+            "betonamu": "Phương pháp tính toán",
+            "tsukaikata": "料金計算方法\r\n見積計算方法\r\n"
+        },
+        {
+            "順番": "14",
+            "kotoba": "伝送時間",
+            "hiragana": "でんそうじかん",
+            "betonamu": "Thời gian truyền",
+            "tsukaikata": "ファインモードはデータ量が2倍で、伝送時間が2倍長くなるという短所がある。"
+        },
+        {
+            "順番": "15",
+            "kotoba": "経由（する）",
+            "hiragana": "けいゆ",
+            "betonamu": "Thông qua",
+            "tsukaikata": "経由地\r\n京都経由で奈良へ行く。\r\nイタリア経由で旅行する。\r\nクリップボード経由で他のアプリケーションにデータを渡す",
+            "ruiji": "通る、通りがかる、通過する、通り過ぎる"
+        },
+        {
+            "順番": "16",
+            "kotoba": "換算する",
+            "hiragana": "かんさんする",
+            "betonamu": "Hoán đổi, quy đổi",
+            "tsukaikata": "換算表\r\nセンチメートルをインチに換算する。\r\n円に換算するとおよそ 3 万円になる。\r\n",
+            "ruiji": "変換、転換、変更"
+        },
+        {
+            "順番": "17",
+            "kotoba": "かける",
+            "betonamu": "Nhân (phép nhân)",
+            "tsukaikata": "5に8をかけると、40となる"
+        },
+        {
+            "順番": "18",
+            "kotoba": "エラーチェック",
+            "betonamu": "Kiểm tra lỗi",
+            "tsukaikata": "エラーチェックを行い、エラーがなければ cdrom をマウントする。\r\nこれは正しいコードであるが、エラーチェックは全く入っていない。"
+        },
+        {
+            "順番": "19",
+            "kotoba": "制御情報",
+            "hiragana": "せいぎょじょうほう",
+            "betonamu": "Thông tin điều khiển",
+            "tsukaikata": "制御情報を抽出する\r\n遠隔制御情報転送方法"
+        },
+        {
+            "順番": "20",
+            "kotoba": "受け取る",
+            "hiragana": "うけとる",
+            "betonamu": "Nhận",
+            "tsukaikata": "手紙を受け取る。\r\nどこで荷物を受け取るのでしょう？",
+            "ruiji": "領収(りょうしゅう)、受領(じゅりょう)、査収(さしゅう)、収受(しゅうじゅ)"
+        },
+        {
+            "順番": "21",
+            "kotoba": "応答",
+            "hiragana": "おうとう",
+            "betonamu": "Phản hồi",
+            "tsukaikata": "質疑応答",
+            "ruiji": "レスポンス、返事、返答、回答"
+        },
+        {
+            "順番": "22",
+            "kotoba": "やりとりする",
+            "betonamu": "Trao đổi, xử lý",
+            "tsukaikata": "見合写真をやりとりする\r\n電話で遣り取りする",
+            "ruiji": "交換、コミュニケーション"
+        },
+        {
+            "順番": "23",
+            "kotoba": "純粋",
+            "hiragana": "じゅんすい",
+            "betonamu": "Đơn thuần, thuần túy, thuần khiết",
+            "tsukaikata": "純粋な愛、純粋な人\r\nあなたは純粋な心を持っている。\r\n彼女は純粋に世界平和を追い求めて活動している。",
+            "ruiji": "単純、ただ"
+        },
+        {
+            "順番": "24",
+            "kotoba": "送信",
+            "hiragana": "そうしん",
+            "betonamu": "Gửi đi",
+            "tsukaikata": "緊急信号を送信する\r\nメールを送信する",
+            "ruiji": "発信、送る"
+        },
+        {
+            "順番": "25",
+            "kotoba": "割合",
+            "hiragana": "わりあい",
+            "betonamu": "Tỉ lệ",
+            "tsukaikata": "各世代別の年収に対する貯蓄の割合を調査した。\r\nこの仕事は、一日の勤務時間の中で顧客対応がかなりの割合を占める。",
+            "ruiji": "ある程度、レート、比率、率"
+        },
+        {
+            "順番": "26",
+            "kotoba": "回線速度",
+            "hiragana": "かいせんそくど",
+            "betonamu": "Tốc độ đường truyền",
+            "tsukaikata": "下り回線速度は12Mbpsだ。"
+        },
+        {
+            "順番": "27",
+            "kotoba": "回線利用率",
+            "hiragana": "かいせんりようりつ",
+            "betonamu": "Tỉ lệ sử dụng đường truyền",
+            "tsukaikata": "ＭＰＬＳネットワークの回線の利用率を向上する。\r\n再送制御による通信回線の利用率の低下を抑制する。",
+            "ruiji": "回線の利用効率"
+        },
+        {
+            "順番": "28",
+            "kotoba": "求める",
+            "hiragana": "もとめる",
+            "betonamu": "Mong muốn, \r\nYêu cầu, \r\nTìm kiếm, \r\nMua\r\nTính toán",
+            "tsukaikata": "平和を求める\r\n援助を求める\r\n優秀な人材を求める\r\n古書を求める\r\nこの三角形の面積を求める",
+            "ruiji": "欲しがる、希望、願望\r\n要求する、要する、リクエスト\r\n探す、探し回る\r\n金を払って手に入れる、買う\r\n計算して答えを出す"
+        },
+        {
+            "順番": "29",
+            "kotoba": "考慮する",
+            "hiragana": "こうりょする",
+            "betonamu": "Xem xét, tính đến",
+            "tsukaikata": "相手の事情を考慮する。\r\n社会への影響を考慮する必要がある。\r\n",
+            "ruiji": "配慮する、考慮に入れる、検討する、よく考える"
+        }
+    ]
+}

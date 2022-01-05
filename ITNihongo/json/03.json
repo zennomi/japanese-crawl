@@ -1,0 +1,426 @@
+﻿{
+    "sheet": [
+        {
+            "kotoba": "対応する",
+            "hiragana": "たいおうする",
+            "betonamu": "Tương ứng, đáp ứng, đối ứng",
+            "tsukaikata": "電話に対応する\r\nこの問題に対応する方法はあります",
+            "ruiji": "合う、相応う"
+        },
+        {
+            "kotoba": "世界中",
+            "hiragana": "せかいちゅう",
+            "betonamu": "Khắp thế giới",
+            "tsukaikata": "世界中に友達を作りたい\r\nいつか、世界中を旅行してみたい"
+        },
+        {
+            "kotoba": "デファクトスタンダード\r\n(De-facto standard)",
+            "betonamu": "Tiêu chuẩn trên thực tế",
+            "tsukaikata": "パソコン向けOSの「Windows」、パソコンのキーボードの「QWERTY配列」、インターネット上の通信プロトコルである「TCP/IP」などがデファクトスタンダードの例と言える。"
+        },
+        {
+            "kotoba": "事実上の世界標準",
+            "hiragana": "じじつじょうの\r\nせかいきじゅん"
+        },
+        {
+            "kotoba": "複数",
+            "hiragana": "ふくすう",
+            "betonamu": "\r\nNhiều",
+            "tsukaikata": "複数年カレンダー、複数の人\r\n複数のものを合わせてひとつにする"
+        },
+        {
+            "kotoba": "集まり",
+            "hiragana": "あつまり",
+            "betonamu": "Tập hợp",
+            "tsukaikata": "組み合わされた物の集まり\r\n彼女は明日、クラブの集まりがある",
+            "ruiji": "グループ、集合"
+        },
+        {
+            "kotoba": "重要",
+            "hiragana": "じゅうよう",
+            "betonamu": "Quan trọng",
+            "tsukaikata": "重要な評価\r\n重要度が高い\r\n重要でないもの",
+            "ruiji": "主要、大事、大切"
+        },
+        {
+            "kotoba": "中心",
+            "hiragana": "ちゅうしん",
+            "betonamu": "Trung tâm",
+            "tsukaikata": "中心地、世界の中心\r\n集団の中心になっている人\r\n自己中心的な人",
+            "ruiji": "センタ、中央"
+        },
+        {
+            "kotoba": "構成",
+            "hiragana": "こうせい",
+            "betonamu": "Cấu thành, tạo thành",
+            "tsukaikata": "委員会の構成\r\n社会は個人によって構成される",
+            "ruiji": "結成、形成\r\n成す、組み立てる"
+        },
+        {
+            "kotoba": "呼ぶ",
+            "hiragana": "よぶ",
+            "betonamu": "Gọi",
+            "tsukaikata": "Mikeと呼んでください\r\n終わったら私を呼んでください\r\n助けを呼ぶ",
+            "ruiji": "呼出す、呼び上げる、召す"
+        },
+        {
+            "kotoba": "含む",
+            "hiragana": "ふくむ",
+            "betonamu": "Bao gồm",
+            "tsukaikata": "範囲に含む\r\nチョコレートを含むケーキ",
+            "ruiji": "持つ、取り込む、組み込む"
+        },
+        {
+            "kotoba": "利用する",
+            "hiragana": "りようする",
+            "betonamu": "Sử dụng",
+            "tsukaikata": "電気を利用する器具\r\nよい機会を利用する"
+        },
+        {
+            "kotoba": "サービス",
+            "betonamu": "Dịch vụ ",
+            "tsukaikata": "サービス業、ITサービス\r\nサービスを提供する"
+        },
+        {
+            "kotoba": "電子メール",
+            "hiragana": "でんしめーる",
+            "betonamu": "Thư điện tử",
+            "tsukaikata": "電子メールを読む",
+            "ruiji": "メール"
+        },
+        {
+            "kotoba": "Webサイト",
+            "betonamu": "Website"
+        },
+        {
+            "kotoba": "実現する",
+            "hiragana": "じつげんする",
+            "betonamu": "Thực hiện",
+            "tsukaikata": "理想を実現する"
+        },
+        {
+            "kotoba": "それぞれ",
+            "betonamu": "Mỗi, từng",
+            "tsukaikata": "それぞれに利点と不利点がある\r\nそれぞれの内容は以下の通りです",
+            "ruiji": "銘々、てんでに、各々"
+        },
+        {
+            "kotoba": "支える",
+            "hiragana": "ささえる",
+            "betonamu": "Hỗ trợ",
+            "tsukaikata": "家族のために家計を支えるという責任がある\r\n病気を乗り越えることができるように、彼を支えるつもりだ",
+            "ruiji": "補助、サポート、手伝う"
+        },
+        {
+            "kotoba": "送受信する",
+            "hiragana": "そうじゅしんする",
+            "betonamu": "Gửi nhận",
+            "tsukaikata": "情報送受信システム\r\n情報を送受信するシステム"
+        },
+        {
+            "kotoba": "各種",
+            "hiragana": "かくしゅ",
+            "betonamu": "Các loại",
+            "tsukaikata": "海は各種の資源を与えてくれる",
+            "ruiji": "様々、色々、多種、多様"
+        },
+        {
+            "kotoba": "ポート番号",
+            "hiragana": "ぽーとばんごう",
+            "betonamu": "Mã số cổng",
+            "tsukaikata": "デフォルトポート番号は 8080 です\r\n接続するポート番号を返します"
+        },
+        {
+            "kotoba": "遠隔操作",
+            "hiragana": "えんかくそうさ",
+            "betonamu": "Thao tác từ xa",
+            "tsukaikata": "遠隔操作をするプロトコル"
+        },
+        {
+            "kotoba": "メールサーバ",
+            "betonamu": "Server mail"
+        },
+        {
+            "kotoba": "メーラー",
+            "betonamu": "Mailer",
+            "tsukaikata": "パソコン上で書いた送信メールをメールサーバに預けるのがメーラーの仕事です"
+        },
+        {
+            "kotoba": "時刻",
+            "hiragana": "じこく",
+            "betonamu": "Thời khắc, thời gian",
+            "tsukaikata": "10時という時刻\r\n列車が出発する時刻は1時間後だ"
+        },
+        {
+            "kotoba": "同期",
+            "hiragana": "どうき",
+            "betonamu": "Đồng bộ",
+            "tsukaikata": "AをBと同期させる"
+        },
+        {
+            "kotoba": "管理",
+            "hiragana": "かんり",
+            "betonamu": "Quản lý",
+            "tsukaikata": "管理者、管理機能、経営管理\r\n仕事を管理する",
+            "ruiji": "マネージメント"
+        },
+        {
+            "kotoba": "識別",
+            "hiragana": "しきべつ",
+            "betonamu": "Phân biệt, định danh",
+            "tsukaikata": "識別名、識別番号\r\nAとBを識別する",
+            "ruiji": "区別、認識"
+        },
+        {
+            "kotoba": "個々",
+            "hiragana": "ここ",
+            "betonamu": "Từng cái",
+            "tsukaikata": "その問題については、各々が案を出し合って改善策を考えている\r\nセミナーで使用するパソコンは各々用意する必要がある"
+        },
+        {
+            "kotoba": "パケット",
+            "betonamu": "\r\nGói",
+            "tsukaikata": "情報のパケットを共有しなければなりません"
+        },
+        {
+            "kotoba": "示す",
+            "hiragana": "しめす",
+            "betonamu": "Thể hiện, chỉ ra",
+            "tsukaikata": "礼儀と丁寧さを示す",
+            "ruiji": "現す、表す、指す"
+        },
+        {
+            "kotoba": "ウェルノウンポート\r\n(Well Know Port)",
+            "betonamu": "Cổng phổ biến",
+            "tsukaikata": "1023の範囲のポート番号は、ウェルノウンポート番号と呼ばれている"
+        },
+        {
+            "kotoba": "送信元",
+            "hiragana": "そうしんもと",
+            "betonamu": "Nơi gửi",
+            "tsukaikata": "ファイルを送信する送信元の装置をセットアップする"
+        },
+        {
+            "kotoba": "割り当てる",
+            "hiragana": "わりあてる",
+            "betonamu": "Phân phối, phân chia",
+            "tsukaikata": "日付を割り当てる",
+            "ruiji": "割付ける、配分"
+        },
+        {
+            "kotoba": "ポートスキャン\r\n（Port scan）",
+            "betonamu": "Quét cổng",
+            "tsukaikata": "定期的にポートスキャンを実行する"
+        },
+        {
+            "kotoba": "接続",
+            "hiragana": "せつぞく",
+            "betonamu": " Kết nối",
+            "tsukaikata": "USB接続\r\nインターネットに接続する",
+            "ruiji": "連係"
+        },
+        {
+            "kotoba": "アクセス可能",
+            "hiragana": "〜かのう",
+            "betonamu": "Có khả năng truy cập",
+            "tsukaikata": "遠隔アクセス可能なプログラミング"
+        },
+        {
+            "kotoba": "不要",
+            "hiragana": "ふよう",
+            "betonamu": "Không cần thiết",
+            "tsukaikata": "不要品\r\n不要なものを取去る",
+            "ruiji": "不必要、余計"
+        },
+        {
+            "kotoba": "有効",
+            "hiragana": "ゆうこう",
+            "betonamu": "Hữu hiệu, hợp lệ",
+            "tsukaikata": "有効期間、有効な手段\r\n「確定」ボタンを有効にする",
+            "ruiji": "イフェクティブ、効果"
+        },
+        {
+            "kotoba": "稼働",
+            "hiragana": "かどう",
+            "betonamu": "Làm việc, hoạt động",
+            "tsukaikata": "稼働人口、安定稼働\r\n印刷機は稼働している",
+            "ruiji": "作動, 動く、動作"
+        },
+        {
+            "kotoba": "セキュリティ",
+            "betonamu": "Bảo mật"
+        },
+        {
+            "kotoba": "設定",
+            "hiragana": "せってい",
+            "betonamu": "Cài đặt",
+            "tsukaikata": "設定器\r\nエアコンを一番低い設定にしておく\r\n会議を設定する",
+            "ruiji": "セット"
+        },
+        {
+            "kotoba": "実施",
+            "hiragana": "じっし",
+            "betonamu": "Thực thi",
+            "tsukaikata": "調査を実施する",
+            "ruiji": "やる、行なう、為す"
+        },
+        {
+            "kotoba": "確実",
+            "hiragana": "かくじつ",
+            "betonamu": "Chính xác, chắc chắn",
+            "tsukaikata": "確実な担保\r\n確実に実施する",
+            "ruiji": "明確、確か"
+        },
+        {
+            "kotoba": "届ける",
+            "hiragana": "とどける",
+            "betonamu": "Giao, chuyển",
+            "tsukaikata": "荷物を届ける\r\n欠席の理由を届ける"
+        },
+        {
+            "kotoba": "厳密",
+            "hiragana": "げんみつ",
+            "betonamu": "Nghiêm ngặt, chặt chẽ, chính xác",
+            "tsukaikata": "言葉の厳密な意味\r\n厳密に言えば\r\n厳密さを要求しない",
+            "ruiji": "厳しい、厳格"
+        },
+        {
+            "kotoba": "\b省く",
+            "hiragana": "はぶく",
+            "betonamu": "Bỏ qua, lược bỏ",
+            "tsukaikata": "無駄を省く",
+            "ruiji": "切捨てる、取捨てる、略す"
+        },
+        {
+            "kotoba": "素早く",
+            "hiragana": "すばやく",
+            "betonamu": "Nhanh",
+            "tsukaikata": "素早く逃げる",
+            "ruiji": "早速、迅速"
+        },
+        {
+            "kotoba": "あて先（宛先）",
+            "hiragana": "あてさき",
+            "betonamu": "Nơi đến",
+            "tsukaikata": "電子メールの宛先",
+            "ruiji": "行き先、伝送先、届け先"
+        },
+        {
+            "kotoba": "届く",
+            "hiragana": "とどく",
+            "betonamu": "Đến, đạt được",
+            "tsukaikata": "手紙が届いた\r\n手が届かない",
+            "ruiji": "達する、着く"
+        },
+        {
+            "kotoba": "送り届ける",
+            "hiragana": "おくりとどける",
+            "betonamu": "Gửi đến",
+            "tsukaikata": "人や品物を送り届ける場所\r\n子供を保育所に送り届ける",
+            "ruiji": "送り届ける、送込む、配送"
+        },
+        {
+            "kotoba": "取り出す",
+            "hiragana": "とりだす",
+            "betonamu": "Lấy ra",
+            "tsukaikata": "ポケットから配布を取り出す",
+            "ruiji": "抜きとる、持ち出す"
+        },
+        {
+            "kotoba": "配信する",
+            "hiragana": "はいしんする",
+            "betonamu": "Phân phối",
+            "tsukaikata": "情報配信サービス\r\nメールをお客様に配信する"
+        },
+        {
+            "kotoba": "未読",
+            "hiragana": "みどく",
+            "betonamu": "Chưa đọc",
+            "tsukaikata": "メールに未読マークを付ける\r\nすでに読んだメールを未読にする"
+        },
+        {
+            "kotoba": "残す",
+            "hiragana": "のこす",
+            "betonamu": "Để lại",
+            "tsukaikata": "メッセージを残す",
+            "ruiji": "保留, 留保, 取りおく"
+        },
+        {
+            "kotoba": "削除する",
+            "hiragana": "さくじょする",
+            "betonamu": "Xoá",
+            "tsukaikata": "削除機能\r\nリストから名前を削除する",
+            "ruiji": "消す、外す"
+        },
+        {
+            "kotoba": "操作",
+            "hiragana": "そうさ",
+            "betonamu": "Thao tác",
+            "tsukaikata": "自動操作、操作方法\r\n装置を操作する"
+        },
+        {
+            "kotoba": "ヘッダ",
+            "betonamu": "Header"
+        },
+        {
+            "kotoba": "拡張",
+            "hiragana": "かくちょう",
+            "betonamu": "Mở rộng",
+            "tsukaikata": "資本の拡張、研究の拡張",
+            "ruiji": "広げる、拡大"
+        },
+        {
+            "kotoba": "テキスト",
+            "betonamu": "\r\nText"
+        },
+        {
+            "kotoba": "音声",
+            "hiragana": "おんせい",
+            "betonamu": "Âm thanh",
+            "tsukaikata": "音声時計、音声処理\r\nビデオの音声が不明瞭になった",
+            "ruiji": "音, サウンド"
+        },
+        {
+            "kotoba": "画像",
+            "hiragana": "がぞう",
+            "betonamu": "Hình ảnh",
+            "tsukaikata": "カラー画像\r\n画像を復元する",
+            "ruiji": "影像、イメージ"
+        },
+        {
+            "kotoba": "扱う",
+            "hiragana": "あつかう",
+            "betonamu": "Đối xử, xử lý",
+            "tsukaikata": "問題点を扱う\r\nAとBを不平等に扱う",
+            "ruiji": "取り扱う"
+        },
+        {
+            "kotoba": "規格",
+            "hiragana": "きかく",
+            "betonamu": "Tiêu chuẩn, quy cách",
+            "tsukaikata": "ISO 規格、規格品",
+            "ruiji": "規準、規制、定まり"
+        },
+        {
+            "kotoba": "強化",
+            "hiragana": "きょうか",
+            "betonamu": "Tăng cường",
+            "tsukaikata": "強化食品、強化ガラス\r\n国家統制を強化する",
+            "ruiji": "強める、増強"
+        },
+        {
+            "kotoba": "暗号化",
+            "hiragana": "あんごうか",
+            "betonamu": "Mã hoá",
+            "tsukaikata": "データの暗号化\r\n通信文を暗号化する",
+            "ruiji": "符号化"
+        },
+        {
+            "kotoba": "署名",
+            "hiragana": "しょめい",
+            "betonamu": "Ký tên",
+            "tsukaikata": "電子署名 \r\n手紙に署名する",
+            "ruiji": "シグナチャー、サイン、名書き"
+        }
+    ]
+}

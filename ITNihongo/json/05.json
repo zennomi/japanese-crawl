@@ -1,0 +1,287 @@
+﻿{
+    "sheet": [
+        {
+            "kotoba": "2進数",
+            "hiragana": "にしんすう",
+            "betonamu": "Hệ nhị phân",
+            "tsukaikata": "コンピュータの世界では全てのデータを２進数で表します。\r\n２進数というのは、0か1を使い、表現しています。"
+        },
+        {
+            "kotoba": "管理",
+            "hiragana": "かんり",
+            "betonamu": "Quản lý",
+            "tsukaikata": "N + 管理\r\n健康管理\r\nスケジュール管理\r\n管理 + N\r\n管理教育\r\n管理職\r\n管理者\r\n管理する\r\n品質を管理する"
+        },
+        {
+            "kotoba": "通信台数",
+            "hiragana": "つうしんだいすう",
+            "betonamu": "\bSố lượng thiết bị truyền thông",
+            "tsukaikata": "通信台数はだいたい43億台です。"
+        },
+        {
+            "kotoba": "最大",
+            "hiragana": "さいだい",
+            "betonamu": "Tối đa, nhiều nhất",
+            "tsukaikata": "この部屋には最大30人が入れます\r\n販売台数は過去の最大となった\r\nこの方法の最大の特徴はこれです"
+        },
+        {
+            "kotoba": "世界中",
+            "hiragana": "せかいじゅう",
+            "betonamu": "Khắp thế giới",
+            "tsukaikata": "インターネットさえあれば世界中のどこからでもアクセスできます。"
+        },
+        {
+            "kotoba": "爆発的",
+            "hiragana": "ばくはつてき",
+            "betonamu": "Một cách bùng nổ, một cách nhanh chóng",
+            "tsukaikata": "爆発的に増える\r\n爆発的な成長を続ける\r\n爆発的な売れ行き"
+        },
+        {
+            "kotoba": "足りる",
+            "hiragana": "たりる",
+            "betonamu": "\r\nĐủ",
+            "tsukaikata": "人が足りている\r\nコンピュータ台数が足りていない"
+        },
+        {
+            "kotoba": "約",
+            "hiragana": "やく",
+            "betonamu": "\r\nKhoảng",
+            "tsukaikata": "会社からうちまでバイクで行くと約40分が掛かります。"
+        },
+        {
+            "kotoba": "節約する",
+            "hiragana": "せつやくする",
+            "betonamu": "Tiết kiệm ",
+            "tsukaikata": "水を節約する\r\nお金を節約する"
+        },
+        {
+            "kotoba": "グローバルIPアドレス",
+            "hiragana": "グローバルアイピーアドレス",
+            "betonamu": "Địa chỉ IP công cộng "
+        },
+        {
+            "kotoba": "プライベートIPアドレス",
+            "hiragana": "プライベートアイピーアドレス",
+            "betonamu": "Địa chỉ IP riêng"
+        },
+        {
+            "kotoba": "使い分ける",
+            "hiragana": "つかいわける",
+            "betonamu": "Sử dụng phù hợp, Sử dụng đúng",
+            "tsukaikata": "道具をうまく使い分ける"
+        },
+        {
+            "kotoba": "割り振る",
+            "hiragana": "わりふる",
+            "betonamu": "Phân phát, Phân chia, phân công",
+            "tsukaikata": "メンバーに仕事を割り振る"
+        },
+        {
+            "kotoba": "機関",
+            "hiragana": "きかん",
+            "betonamu": "Cơ quan",
+            "tsukaikata": "N+機関\r\n教育機関\r\n財政機関\r\n医療機関"
+        },
+        {
+            "kotoba": "重複",
+            "hiragana": "ちょうふく",
+            "betonamu": "Trùng lặp",
+            "tsukaikata": "先ほどの話と重複しますが\r\n申し込みが重複しています。"
+        },
+        {
+            "kotoba": "発行",
+            "hiragana": "はっこう",
+            "betonamu": "Phát hành",
+            "tsukaikata": "証明書を発行します\r\n新聞を発行します\r\n発行部数が多いです"
+        },
+        {
+            "kotoba": "家庭",
+            "hiragana": "かてい",
+            "betonamu": "Gia đình",
+            "tsukaikata": "明るい家庭を作る\r\n私には家庭がある\r\n家庭教師\r\n家庭用品\r\n家庭生活"
+        },
+        {
+            "kotoba": "企業",
+            "hiragana": "きぎょう",
+            "betonamu": "Doanh nghiệp",
+            "tsukaikata": "大手企業\r\n中小企業\r\n個人企業\r\n参加企業\r\n企業秘密"
+        },
+        {
+            "kotoba": "内",
+            "hiragana": "ない/うち",
+            "betonamu": "Trong",
+            "tsukaikata": "家庭内\r\nクラス内\r\n会社内"
+        },
+        {
+            "kotoba": "私的",
+            "hiragana": "してき",
+            "betonamu": "Mang tính cá nhân, riêng tư",
+            "tsukaikata": "私的な感情で、色々と物事を決めてしまうのは良くないと思う。\r\n全員で協力して進めるので、私的な行動をとらないように注意する。"
+        },
+        {
+            "kotoba": "通信機器",
+            "hiragana": "つうしんきき",
+            "betonamu": "Thiết bị truyền thông",
+            "tsukaikata": "情報通信機器\r\n無線通信機器"
+        },
+        {
+            "kotoba": "複数",
+            "hiragana": "ふくすう",
+            "betonamu": "Nhiều",
+            "tsukaikata": "複数の仕事から収入を得ています。\r\n面接では複数の候補者がいることも多いです。"
+        },
+        {
+            "kotoba": "共有する",
+            "hiragana": "きょうゆうする",
+            "betonamu": "Chia sẻ",
+            "tsukaikata": "情報を共有する\r\n本を共有して使うようにしてください"
+        },
+        {
+            "kotoba": "先頭",
+            "hiragana": "せんとう",
+            "betonamu": "Đứng đầu ",
+            "tsukaikata": "彼女は列の先頭に並んでいます\r\n彼が先頭を切って、難しい仕事に取り組み始めました"
+        },
+        {
+            "kotoba": "始まる",
+            "hiragana": "はじまる",
+            "betonamu": "Bắt đầu ",
+            "tsukaikata": "ミーティングは今から始まる\r\nいよいよ試合が始まる"
+        },
+        {
+            "kotoba": "ループバックアドレス",
+            "betonamu": "Địa chỉ loopback",
+            "tsukaikata": "ループバックアドレスは、「127.0.0.1」のことです。"
+        },
+        {
+            "kotoba": "自分自身",
+            "hiragana": "じぶんじしん",
+            "betonamu": "自分を強めている言葉\r\nBản thân",
+            "tsukaikata": "それは私自分自身の問題です"
+        },
+        {
+            "kotoba": "特別",
+            "hiragana": "とくべつ",
+            "betonamu": "\bĐặc biệt",
+            "tsukaikata": "特別な教科書を使って教えています"
+        },
+        {
+            "kotoba": "ローカルホスト",
+            "betonamu": "Local host",
+            "tsukaikata": "自分のPCはローカルホストでネットワークで\r\nつながっている相手のコンピュータはリモートホストになります。"
+        },
+        {
+            "kotoba": "Webサーバ",
+            "hiragana": "ウェブサーバ",
+            "betonamu": "Web server ",
+            "tsukaikata": "Webサーバに対してリクエストを送信します"
+        },
+        {
+            "kotoba": "動かす",
+            "hiragana": "うごかす",
+            "betonamu": "Chuyển động, hoạt động",
+            "tsukaikata": "サーバを動かす\r\n人を動かす\r\n体を動かす"
+        },
+        {
+            "kotoba": "ブラウザ",
+            "betonamu": "Trình duyệt",
+            "tsukaikata": "HTML 形式で発行されたプレゼンテーションは、Web ブラウザで表示できます"
+        },
+        {
+            "kotoba": "IPマスカレード",
+            "hiragana": "アイピーマスカレード",
+            "betonamu": "IP mặt nạ",
+            "tsukaikata": "IPマスカレードを用いた中継を可能にする"
+        },
+        {
+            "kotoba": "相互交換",
+            "hiragana": "そうごこうかん",
+            "betonamu": "Hoán đổi lẫn nhau",
+            "tsukaikata": "問題について意見の相互交換をしました"
+        },
+        {
+            "kotoba": "技術",
+            "hiragana": "ぎじゅつ",
+            "betonamu": "Kỹ thuật, công nghệ",
+            "tsukaikata": "技術革新\r\n先端技術\r\n生産技術\r\n技術力を高める"
+        },
+        {
+            "kotoba": "通常",
+            "hiragana": "つうじょう",
+            "betonamu": "Thông thường\b, bình thường",
+            "tsukaikata": "通常7時に起きる\r\n通常通りに行う"
+        },
+        {
+            "kotoba": "ルータ",
+            "betonamu": "Bộ định tuyến",
+            "tsukaikata": "ルータを使うことによってどういう経路で\r\nデータを配信するか選択してくれる"
+        },
+        {
+            "kotoba": "１対１",
+            "hiragana": "いったいいち",
+            "betonamu": "1-1",
+            "tsukaikata": "社長と１対１で面接することになりました"
+        },
+        {
+            "kotoba": "相互変換",
+            "hiragana": "そうごへんかん",
+            "betonamu": "Hoán chuyển lẫn nhau",
+            "tsukaikata": "文字列と文字コードの相互変換です"
+        },
+        {
+            "kotoba": "可能性",
+            "hiragana": "かのうせい",
+            "betonamu": "Khả năng",
+            "tsukaikata": "可能性がある\r\n無限の可能性\r\n成功の可能性が高い"
+        },
+        {
+            "kotoba": "多対1",
+            "hiragana": "たたいいち",
+            "betonamu": "Nhiều - 1",
+            "tsukaikata": "面接官と志望者が多対１で行われる最終面接です。"
+        },
+        {
+            "kotoba": "同時に",
+            "hiragana": "どうじに",
+            "betonamu": "Đồng thời",
+            "tsukaikata": "夜が明けるとどうじに出発する"
+        },
+        {
+            "kotoba": "自動的",
+            "hiragana": "じどうてき",
+            "betonamu": "Tự động ",
+            "tsukaikata": "PCが自動的に再起動した"
+        },
+        {
+            "kotoba": "割り当てる",
+            "hiragana": "わりあてる",
+            "betonamu": "Gán, phân chia",
+            "tsukaikata": "毎日メンバーに仕事をあり当てる"
+        },
+        {
+            "kotoba": "同じく",
+            "hiragana": "おなじく",
+            "betonamu": "Giống\r\nその前に述べた事柄と違いがないことを示す言葉",
+            "tsukaikata": "彼と同じくベトナム出身です。",
+            "ruiji": "同じで\r\n同様に"
+        },
+        {
+            "kotoba": "回収する",
+            "hiragana": "かいしゅうする",
+            "betonamu": "Thu hồi",
+            "tsukaikata": "古本を回収する"
+        },
+        {
+            "kotoba": "手動",
+            "hiragana": "しゅどう",
+            "betonamu": "Thủ công",
+            "tsukaikata": "手動バックアップを実行する\r\n手動式\r\n手動ブレーキ"
+        },
+        {
+            "kotoba": "効率的",
+            "hiragana": "こうりつてき",
+            "betonamu": "Một cách hiệu quả",
+            "tsukaikata": "仕事を効率的に進めるためにはTodo リストを作成する必要があると思います"
+        }
+    ]
+}

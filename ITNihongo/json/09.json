@@ -1,0 +1,263 @@
+﻿{
+    "sheet": [
+        {
+            "順番": "1",
+            "kotoba": "家庭内",
+            "hiragana": "かていない",
+            "betonamu": "Trong gia đình",
+            "tsukaikata": "家庭内にウィルスを持ち込まないようにしましょう"
+        },
+        {
+            "順番": "2",
+            "kotoba": "会社内",
+            "hiragana": "かいしゃない",
+            "betonamu": "Trong \bcông ty",
+            "tsukaikata": "この資料は会社内で使うようにしてください"
+        },
+        {
+            "順番": "3",
+            "kotoba": "建物",
+            "hiragana": "たてもの",
+            "betonamu": "Toà nhà",
+            "tsukaikata": "私の会社はあの建物の中にあります",
+            "ruiji": "\bビルディング"
+        },
+        {
+            "順番": "4",
+            "kotoba": "狭い",
+            "hiragana": "せまい",
+            "betonamu": "Hẹp",
+            "tsukaikata": "私の部屋が狭いです。"
+        },
+        {
+            "順番": "5",
+            "kotoba": "空間",
+            "hiragana": "くうかん",
+            "betonamu": "Không gian"
+        },
+        {
+            "順番": "6",
+            "kotoba": "経由",
+            "hiragana": "けいゆ",
+            "betonamu": "目的地へ行く途中、ある地点を通ること/何かを行うときに、中間の機関を経（へ）ること\r\nQua, Thông qua",
+            "tsukaikata": "Da nang経由でHo Chi Minhへ行きます\r\n部長を経由して提案する"
+        },
+        {
+            "順番": "7",
+            "kotoba": "やり取り",
+            "hiragana": "やりとり",
+            "betonamu": "Trao đổi",
+            "tsukaikata": "メールで情報をやりとりする"
+        },
+        {
+            "順番": "8",
+            "kotoba": "プリンタ",
+            "betonamu": "Máy in",
+            "tsukaikata": "新しいプリンタを買いました"
+        },
+        {
+            "順番": "9",
+            "kotoba": "記憶装置",
+            "hiragana": "きおくそうち",
+            "betonamu": "Thiết bị lưu trữ",
+            "tsukaikata": "記憶装置の種類がたくさんあります"
+        },
+        {
+            "順番": "10",
+            "kotoba": "共有",
+            "hiragana": "きょうゆう",
+            "betonamu": "Chia sẻ",
+            "tsukaikata": "授業スライドを共有します"
+        },
+        {
+            "順番": "11",
+            "kotoba": "形",
+            "hiragana": "かたち\r\nがた",
+            "betonamu": "物の姿、かたち、ありさまという意味です\r\nHình dáng, tư thế",
+            "tsukaikata": "髪形によってイメージが変わります",
+            "ruiji": "フォーム"
+        },
+        {
+            "順番": "12",
+            "kotoba": "形態",
+            "hiragana": "けいたい",
+            "betonamu": "Hình thái",
+            "tsukaikata": "雇用形態を変更する際に注意が必要です"
+        },
+        {
+            "順番": "13",
+            "kotoba": "バス型",
+            "hiragana": "ばすがた",
+            "betonamu": "Dạng tuyến"
+        },
+        {
+            "順番": "14",
+            "kotoba": "スター型",
+            "hiragana": "すたーがた",
+            "betonamu": "Dạng sao"
+        },
+        {
+            "順番": "15",
+            "kotoba": "リング型",
+            "hiragana": "りんぐがた",
+            "betonamu": "Dạng vòng"
+        },
+        {
+            "順番": "16",
+            "kotoba": "分岐する",
+            "hiragana": "ぶんきする",
+            "betonamu": "Phân nhánh",
+            "tsukaikata": "既存の線から分岐します"
+        },
+        {
+            "順番": "17",
+            "kotoba": "束ねる",
+            "hiragana": "たばねる",
+            "betonamu": "Gói, bó",
+            "tsukaikata": "髪の毛をたばねる"
+        },
+        {
+            "順番": "18",
+            "kotoba": "集線装置",
+            "hiragana": "しゅうせんそうち",
+            "betonamu": "Thiết bị tập trung dòng"
+        },
+        {
+            "順番": "19",
+            "kotoba": "環状",
+            "hiragana": "かんじょう",
+            "betonamu": "Hình tròn",
+            "tsukaikata": "椅子を環状に並べる"
+        },
+        {
+            "順番": "20",
+            "kotoba": "配置する",
+            "hiragana": "はいちする",
+            "betonamu": "Bố trí, xắp xếp",
+            "tsukaikata": "図や文字をうまく配置する"
+        },
+        {
+            "順番": "21",
+            "kotoba": "入出力",
+            "hiragana": "しゅつにゅうりょく",
+            "betonamu": "Xuất nhập",
+            "tsukaikata": "ファイルの出入力を監視するプログラムを組みます"
+        },
+        {
+            "順番": "22",
+            "kotoba": "多数",
+            "hiragana": "たすう",
+            "betonamu": "Nhiều",
+            "tsukaikata": "多数の感染者が確認された"
+        },
+        {
+            "順番": "23",
+            "kotoba": "バラバラ",
+            "betonamu": "Tung lung, rời rạc",
+            "tsukaikata": "意見が合わなかったため、チームがバラバラになった"
+        },
+        {
+            "順番": "24",
+            "kotoba": "送信する",
+            "hiragana": "そうしんする",
+            "betonamu": "Gửi",
+            "tsukaikata": "ミーティング後、みんなにメールを送信します"
+        },
+        {
+            "順番": "25",
+            "kotoba": "混乱",
+            "hiragana": "こんらん",
+            "betonamu": "Hỗn loạn , lẫn lộn",
+            "tsukaikata": "同時に複数のタスクを与えてしまうと、子供が混乱してしまいます"
+        },
+        {
+            "順番": "26",
+            "kotoba": "信号",
+            "hiragana": "しんごう",
+            "betonamu": "Tín hiệu",
+            "tsukaikata": "赤信号になると、車を止めないといけません"
+        },
+        {
+            "順番": "27",
+            "kotoba": "ぶつかる",
+            "hiragana": "ぶつかる",
+            "betonamu": "Va, va chạm",
+            "tsukaikata": "問題にぶつかった時にどのように解決するか"
+        },
+        {
+            "順番": "28",
+            "kotoba": "優先",
+            "hiragana": "ゆうせん",
+            "betonamu": "Ưu tiên",
+            "tsukaikata": "仕事には優先順位があります"
+        },
+        {
+            "順番": "29",
+            "kotoba": "制御",
+            "hiragana": "せいぎょ",
+            "betonamu": "Kiểm soát",
+            "tsukaikata": "ロボットの動きを制御できるようになった"
+        },
+        {
+            "順番": "30",
+            "kotoba": "方式",
+            "hiragana": "ほうしき",
+            "betonamu": "Phương thức",
+            "tsukaikata": "実現方式には２種類があります"
+        },
+        {
+            "順番": "31",
+            "kotoba": "使用中",
+            "hiragana": "しようちゅう",
+            "betonamu": "Đang sử dụng",
+            "tsukaikata": "そのPCが使用中かどうか確認してみてください"
+        },
+        {
+            "順番": "32",
+            "kotoba": "バッティングする",
+            "betonamu": "Va chạm, đụng đầu\r\n 二つの物事がぶつかること",
+            "tsukaikata": "日程がバッティングする"
+        },
+        {
+            "順番": "33",
+            "kotoba": "衝突",
+            "hiragana": "しょうとつ",
+            "betonamu": "Xung đột",
+            "tsukaikata": "複数の人が同時に同じファイルを修正すると、衝突が起きます"
+        },
+        {
+            "順番": "34",
+            "kotoba": "検出",
+            "hiragana": "けんしゅつ",
+            "betonamu": "Phát hiện, dò thấy",
+            "tsukaikata": "障害物を検知した時にすぐ止めるようにする"
+        },
+        {
+            "順番": "35",
+            "kotoba": "タイミング",
+            "betonamu": "Thời điểm",
+            "tsukaikata": "報告するタイミングが大事ですよ"
+        },
+        {
+            "順番": "36",
+            "kotoba": "再送する",
+            "hiragana": "さいそうする",
+            "betonamu": "Gửi lại",
+            "tsukaikata": "メールを再送する際に注意するマナーを紹介します"
+        },
+        {
+            "順番": "37",
+            "kotoba": "処理速度",
+            "hiragana": "しょりそくど",
+            "betonamu": "Tốc độ xử lý",
+            "tsukaikata": "プログラムの書き方によって処理速度が変わります"
+        },
+        {
+            "順番": "38",
+            "kotoba": "低下する",
+            "hiragana": "ていかする",
+            "betonamu": "Giảm đi, yếu đi",
+            "tsukaikata": "昨日に比べて気温が低下する"
+        }
+    ]
+}

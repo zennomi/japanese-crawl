@@ -1,0 +1,270 @@
+﻿{
+    "sheet": [
+        {
+            "kotoba": "特定する",
+            "hiragana": "とくていする",
+            "betonamu": "Chỉ định, xác định",
+            "tsukaikata": "問題の原因を特定する\r\n原因の特定"
+        },
+        {
+            "kotoba": "一意",
+            "hiragana": "いちい",
+            "betonamu": "Duy nhất",
+            "tsukaikata": "一意のID\r\n一意的に指定される",
+            "ruiji": "唯一、単一、ユニーク"
+        },
+        {
+            "kotoba": "認証番号",
+            "hiragana": "にんしょうばんごう",
+            "betonamu": "Số định danh\b, số chứng nhận",
+            "tsukaikata": "認証番号カード"
+        },
+        {
+            "kotoba": "認識番号",
+            "hiragana": "にんしきばんごう",
+            "betonamu": "Số định danh"
+        },
+        {
+            "kotoba": "割り振る",
+            "hiragana": "わりふる",
+            "betonamu": "Chia cho, gán cho",
+            "tsukaikata": "タスクを割り振る",
+            "ruiji": "割り付ける、振当てる"
+        },
+        {
+            "kotoba": "言わば",
+            "hiragana": "いわば",
+            "betonamu": "Có thể nói",
+            "tsukaikata": "彼は私の最も親しい友人で、言わば兄弟だ\r\nこの犬は言わばうちの家族の一員だ",
+            "ruiji": "言うなれば"
+        },
+        {
+            "kotoba": "２進数",
+            "hiragana": "にしんすう",
+            "betonamu": "Nhị phân",
+            "tsukaikata": "2進数を10進数に変換する"
+        },
+        {
+            "kotoba": "表現する",
+            "hiragana": "ひょうげんする",
+            "betonamu": "Thể hiện, biểu diễn",
+            "tsukaikata": "言う言葉を文章で表現する\r\n表現をする",
+            "ruiji": "表す、現す"
+        },
+        {
+            "kotoba": "通常",
+            "hiragana": "つうじょう",
+            "betonamu": "Thông thường",
+            "tsukaikata": "通常の仕事時間\r\n通常は仲間と、食事をする",
+            "ruiji": "普通、通例"
+        },
+        {
+            "kotoba": "人間",
+            "hiragana": "にんげん",
+            "betonamu": "Con người",
+            "tsukaikata": "犬は人間の友だ\r\n人間的な感情",
+            "ruiji": "人、人類"
+        },
+        {
+            "kotoba": "ドット",
+            "hiragana": "（dot）",
+            "betonamu": "Dấu chấm"
+        },
+        {
+            "kotoba": "区切る",
+            "hiragana": "くぎる",
+            "betonamu": "Phân tách",
+            "tsukaikata": "数字を小数点で区切る\r\nフィールドはカンマで区切る",
+            "ruiji": "別ける、分ける"
+        },
+        {
+            "kotoba": "計算し直す",
+            "hiragana": "けいさんしなおす",
+            "betonamu": "Tính lại",
+            "tsukaikata": "2進数を10進数に計算し直す",
+            "ruiji": "再計算する"
+        },
+        {
+            "kotoba": "桁",
+            "hiragana": "けた",
+            "betonamu": "Ký tự (chữ số, chữ cái)",
+            "tsukaikata": "桁数\b\r\n最後の桁"
+        },
+        {
+            "kotoba": "組み",
+            "hiragana": "くみ",
+            "betonamu": "Nhóm, tổ chức, tập hợp lại",
+            "tsukaikata": "組みになっている物",
+            "ruiji": "セット、グループ"
+        },
+        {
+            "kotoba": "書き表す",
+            "hiragana": "かきあらわす",
+            "betonamu": "Viết ra",
+            "tsukaikata": "文章に書き表す",
+            "ruiji": "述べる、書き表わす"
+        },
+        {
+            "kotoba": "疎通",
+            "hiragana": "そつう",
+            "betonamu": "Liên lạc, giao tiếp, kết nối",
+            "tsukaikata": "口頭による意思の疎通\r\n皆さんと意志の疎通をする\r\n意志が疎通する"
+        },
+        {
+            "kotoba": "対応",
+            "hiragana": "たいおう",
+            "betonamu": "\bĐối ứng, phản hồi",
+            "tsukaikata": "法律の対応、対応策\r\n対応する方法を考える"
+        },
+        {
+            "kotoba": "返る",
+            "hiragana": "かえる",
+            "betonamu": "Trả lại, trả về",
+            "tsukaikata": "\b昔の姿に返る",
+            "ruiji": "返る、ひき返す"
+        },
+        {
+            "kotoba": "正常",
+            "hiragana": "せいじょう",
+            "betonamu": "Đúng, bình thường",
+            "tsukaikata": "それは正常範囲内です\r\nこの機械は正常に作動している",
+            "ruiji": "正確、規則正しい"
+        },
+        {
+            "kotoba": "確認する",
+            "hiragana": "かくにんする",
+            "betonamu": "Xác nhận, kiểm tra",
+            "tsukaikata": "動作を確認する",
+            "ruiji": "チェック"
+        },
+        {
+            "kotoba": "コマンド",
+            "hiragana": "（command）",
+            "betonamu": "\r\nLệnh"
+        },
+        {
+            "kotoba": "到達不能",
+            "hiragana": "とうたつふのう",
+            "betonamu": "Không thể đạt được",
+            "tsukaikata": "ネットワークが到達不能である"
+        },
+        {
+            "kotoba": "障害",
+            "hiragana": "しょうがい",
+            "betonamu": "Lỗi, trở ngại",
+            "tsukaikata": "精神障害、気分障害、障害物"
+        },
+        {
+            "kotoba": "発生する",
+            "hiragana": "はっせいする",
+            "betonamu": "Phát sinh",
+            "tsukaikata": "エラーは発生する",
+            "ruiji": "生じる、発する"
+        },
+        {
+            "kotoba": "表記",
+            "hiragana": "ひょうき",
+            "betonamu": "Ký hiệu, sự ghi lên",
+            "tsukaikata": "このブログは日本語表記のみです\r\nカタカナ表記の通りに発音する",
+            "ruiji": "筆記"
+        },
+        {
+            "kotoba": "それでも",
+            "betonamu": "Dù vậy, nhưng",
+            "tsukaikata": "彼はとても疲れていたが, それでも歩き続けた\r\n彼は欠点はあるが, それでも私は好きだ"
+        },
+        {
+            "kotoba": "やはり",
+            "betonamu": "Cũng, vẫn, quả thực là",
+            "tsukaikata": "やはりそれを注文します\r\nこれもやはり日本製じゃない",
+            "ruiji": "やっぱり、なんといっても"
+        },
+        {
+            "kotoba": "さらに",
+            "betonamu": "Hơn nữa",
+            "tsukaikata": "さらに、これは無料です。\r\nさらに悪くする",
+            "ruiji": "この上、その上"
+        },
+        {
+            "kotoba": "別名",
+            "hiragana": "べつめい",
+            "betonamu": "Tên khác, biệt danh"
+        },
+        {
+            "kotoba": "ドメイン名",
+            "hiragana": "（Domain name）",
+            "betonamu": "Tên \r\nmiền"
+        },
+        {
+            "kotoba": "ホスト名",
+            "hiragana": "（Hostname）",
+            "betonamu": "Host name"
+        },
+        {
+            "kotoba": "混乱する",
+            "hiragana": "こんらんする",
+            "betonamu": "Hỗn loạn, nhầm lẫn",
+            "tsukaikata": " ユーザを混乱させないように表示の順番を調整した"
+        },
+        {
+            "kotoba": "対応付け",
+            "hiragana": "たいおうつけ",
+            "betonamu": "Sự tương ứng, tương đương",
+            "tsukaikata": "各項目は機能モジュールと対応付けられている"
+        },
+        {
+            "kotoba": "不足",
+            "hiragana": "ふそく",
+            "betonamu": "Thiếu",
+            "tsukaikata": "睡眠不足、食料不足",
+            "ruiji": "不足、欠乏"
+        },
+        {
+            "kotoba": "解消する",
+            "hiragana": "かいしょうする",
+            "betonamu": "Giải quyết, loại bỏ",
+            "tsukaikata": "不具合を解消する"
+        },
+        {
+            "kotoba": "次世代",
+            "hiragana": "じせだい",
+            "betonamu": "Thế hệ tiếp theo",
+            "tsukaikata": "次世代製品＋N\r\n次世代製品＋の＋N"
+        },
+        {
+            "kotoba": "考え出す",
+            "hiragana": "かんがえだす",
+            "betonamu": "\bNghĩ ra"
+        },
+        {
+            "kotoba": "構成する",
+            "hiragana": "こうせいする",
+            "betonamu": "Cấu thành, cấu tạo",
+            "tsukaikata": "チームを構成する\r\n自動構成スクリプトを使用する"
+        },
+        {
+            "kotoba": "約",
+            "hiragana": "やく",
+            "betonamu": "\r\nKhoảng",
+            "tsukaikata": "約2時間かかっています",
+            "ruiji": "ざっと、ほぼ、およそ"
+        },
+        {
+            "kotoba": "澗",
+            "hiragana": "かん",
+            "betonamu": "1 đơn vị đếm số trong tiếng Nhật, bằng 10^36"
+        },
+        {
+            "kotoba": "表記法",
+            "hiragana": "ひょうきほう",
+            "betonamu": "Cách ghi",
+            "tsukaikata": "数学者が使用する表記法",
+            "ruiji": "記法"
+        },
+        {
+            "kotoba": "コロン",
+            "hiragana": "（Colon）",
+            "betonamu": "Dấu 2 chấm"
+        }
+    ]
+}

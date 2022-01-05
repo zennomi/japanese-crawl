@@ -1,0 +1,51 @@
+﻿kotoba	hiragana	audio	betonamu	tsukaikata	ruiji
+誤り	あやまり	[sound:yomichan_audio_あやまり_誤り.mp3]	Lỗi	誤りを正す<br>誤りを具体的に示す	エラー・過ち・間違い
+制御	せいぎょ	[sound:yomichan_audio_せいぎょ_制御.mp3]	Điều khiển, kiểm soát	制御装置、遠隔制御<br>運転を自動的に制御する<br>感情を制御する	コントロール
+検出	けんしゅつ	[sound:yomichan_audio_けんしゅつ_検出.mp3]	Phát hiện, tìm ra	毒物が検出される<br>エラーを検出する<br>ウイルス検出プログラム	見つけ出す・見つける・検知する・探し出す
+電磁波	でんじは	[sound:yomichan_audio_でんじは_電磁波.mp3]	Sóng điện từ	日常生活で知られる光や電波などは電磁波の一種である。	trống
+影響	えいきょう	[sound:yomichan_audio_えいきょう_影響.mp3]	Ảnh hưởng	影響を及ばす、影響力、影響度<br>インフルエンザの影響でイベントが中止になった。<br>テレビの影響力の大きさに驚いている。	作用・差し響き・インパクト
+途中	とちゅう	[sound:yomichan_audio_とちゅう_途中.mp3]	Giữa chừng	出勤途中の事故<br>食事の途中で席を立つ。<br>今、学校へ行く途中です。	最中・中
+変形	へんけい	[sound:yomichan_audio_へんけい_変形.mp3]	Biến hình, biến dạng	運搬途中に箱が潰れて変形してしまった。<br>このおもちゃは変形してももとに戻る。<br>地震で家が変形してしまった。	形や状態が変わる<br>形式を変える
+ビット誤り率	ビットあやまりりつ	[sound:yomichan_audio_ビットあやまりりつ_ビット誤り率.mp3]	Lỗi bit	デジタル信号を伝送すると、どうしてもビット誤りが発生する。	ビット・エラー
+訂正	ていせい	[sound:yomichan_audio_ていせい_訂正.mp3]	Chỉnh sửa	誤字・間違いを訂正する<br>金額を訂正する<br>発言を訂正する<br>１．相手方に間違った締め切りを伝えてしまったため、訂正し、お詫びをする。<br>２．会社の書類に訂正印を押す。	・訂正：誤りを正しく直すこと。特に言葉や文章・文字の誤りを正しくすること。<br>・修正：不十分・不適当と思われるところを改め直すこと。より良くする、より分かりやすくする。<br>補正、加筆、リライト
+trống	パリティーチェック	[sound:yomichan_audio_パリティーチェック.mp3]	Parity check (Kiểm tra chẵn lẻ)	パリティチェックとは、データの誤り検出方式の一つである。<br>入力のパリティチェックを有効にする。	trống
+ハミング符号	trống	[sound:yomichan_audio_undefined_ハミング符号.mp3]	Phương thức mã Hamming	ハミング符号とは、データの伝送時に付加し、誤りを検知・訂正できる誤り訂正符号の一つである。	ハミングコードチェック
+奇数パリティ	きすうパリティ	[sound:yomichan_audio_きすうパリティ_奇数パリティ.mp3]	Odd parity (Kiểm tra parity lẻ)	全体の和が奇数になるように決められる（1の数が奇数なら0、偶数なら1）ものを「奇数パリティ」という。	trống
+偶数パリティ	ぐうすうパリティ	[sound:yomichan_audio_ぐうすうパリティ_偶数パリティ.mp3]	Even parity (Kiểm tra parity chẵn)	全体の和が偶数になるように決められる（ブロック中の1の数が奇数なら1、偶数なら0）ものを「偶数パリティ」という。	trống
+ビット列	ビットれつ	[sound:yomichan_audio_ビットれつ_ビット列.mp3]	Chuỗi bit	各命令はビット列の形に符号化される	trống
+検査	けんさ	[sound:yomichan_audio_けんさ_検査.mp3]	Kiểm tra	ある基準をもとに、異状の有無、適不適などを調べること<br>検査結果・検査対象・血液検査・最終検査・レントゲン検査	調査・検診・診断・監察・点検・試験
+付け加える	つけくわえる	[sound:yomichan_audio_つけくわえる_付け加える.mp3]	Thêm vào	説明を付け加える<br>食物に味を付け加える<br>文や句の末尾について疑問・禁止・感動などの意味を付け加えるもの。	付加する・補足する・追加する・加える
+適用	てきよう	[sound:yomichan_audio_てきよう_適用.mp3]	Áp dụng	ソフトウェアにパッチを適用する。<br>私たちはその工事にこの工法を適用する。	当てはまる・活用する・使用する・応用する・用いる
+trống	パリティビット	[sound:yomichan_audio_パリティビット.mp3]	Parity bit (Bit chẵn lẻ)	パリティビットは誤り検出の方法の一番簡単な方法である。	trống
+発生	はっせい	[sound:yomichan_audio_はっせい_発生.mp3]	Phát sinh	不具合が発生した原因を調査中。<br>追加料金が発生する。<br>大きな地震が発生しました。	起こる・起きる・生じる・引き起こす
+送信	そうしん	[sound:yomichan_audio_そうしん_送信.mp3]	Gửi đi, truyền đi	電子メールを送信する。<br>緊急信号を送信する。<br>データを送信する。<br><br>	送る・発信する・通信・伝送
+受信	じゅしん	[sound:yomichan_audio_じゅしん_受信.mp3]	Nhận	Trái nghĩa với 送信する	trống
+発見	はっけん	[sound:yomichan_audio_はっけん_発見.mp3]	Phát hiện	新しい星を発見する<br>新しい真理を発見する<br>隠れている真実を発見する	見つける・見つけ出す・見出す
+再送	さいそう	[sound:yomichan_audio_さいそう_再送.mp3]	Gửi lại	ファックスを再送する<br>再送電報<br>コンピュータネットワークにおいて、再送（英語: retransmission）とは、破損もしくは損失したパケットを再び送ることである。	もう一度送りなおす・再度送る・再度送信
+要求	ようきゅう	[sound:yomichan_audio_ようきゅう_要求.mp3]	Yêu cầu	再送を要求する<br>待遇改善を要求する<br>権利を強く要求する<br>人の要求を満たす	リクエスト・求める・欲求する・要する・要望
+確実	かくじつ	[sound:yomichan_audio_かくじつ_確実.mp3]	Chắc chắn	確実に誤りが検出できる<br>今日は確実にあの人と会える<br>確実に君は嘘をついている	確かに・間違いなく
+垂直パリティ	すいちょくパリティ	[sound:yomichan_audio_すいちょくパリティ_垂直パリティ.mp3]	Vertical parity (Kiểm tra parity dọc) (VRC)	trống	trống
+水平	すいへい	[sound:yomichan_audio_すいへい_水平.mp3]	Horizontal parity (Kiểm tra parity ngang) (LRC)	trống	trống
+方向	ほうこう	[sound:yomichan_audio_ほうこう_方向.mp3]	Phương hướng, hướng	パリティビットを垂直・水平のどちらの方向に付け加えるか。<br>北の方向を指す<br>右の方向から風が吹く<br>将来の方向を決める	向き・方角
+種類	しゅるい	[sound:yomichan_audio_しゅるい_種類.mp3]	Chủng loại	垂直パリティと水平パリティの２種類の方式に分かれる。<br>どういう種類の本ですか。<br>リンゴとミカンは野菜ではなく果物の種類になる。	種別・カテゴリ・タイプ
+両方	りょうほう	[sound:yomichan_audio_りょうほう_両方.mp3]	Cả hai	右と左の両方を見てから進む<br>猫と犬の両方飼っている <br>左右両方の足	どっちも・双方<br>＊Trái nghĩa: 片方
+組み合わせる	くみあわせる	[sound:yomichan_audio_くみあわせる_組み合わせる.mp3]	Phối hợp, kết hợp	何種類もの花を組み合わせた花束<br>両手を胸の前で組み合わせる<br>部品を組み合わせてモデルを作る。<br>	合わせる・結び合せる・交ぜ合わせる
+文字	もじ	[sound:yomichan_audio_もじ_文字.mp3]	Ký tự, chữ cái	手書文字: Chữ viết tay<br>大文字：Chữ viết hoa<br>文字経由<br>美文字練習<br>文字列の方向	アルファベット・字・レター・キャラクター
+毎に	ごとに	[sound:yomichan_audio_ごとに_毎に.mp3]	Mỗi...	二時間ごとに計る<br>試験ごとに百点を取る<br>	毎に　：○●　○●　○●　○●　　二駅毎にトイレがある<br><br>おきに：○○　●　○○　●　○○　二駅おきにトイレがある
+位置	いち	[sound:yomichan_audio_いち_位置.mp3]	Vị trí	ある事象の時刻と位置<br>X軸の位置<br>この問題は重要な位置を占める<br>	場所・地位・立場・所・ところ・ポジション<br><br>
+trống	ブロック	[sound:yomichan_audio_ブロック.mp3]	Block (khối)	そのブロック毎にパリティを付け加える<br>ブロック建設<br>ブロック経済	trống
+見なす	みなす	[sound:yomichan_audio_みなす_見なす.mp3]	Coi như là	出欠の返事がない者は欠席と見なす。<br>遅刻３回は欠席１回とみなす。<br>言語能力は、人間の最も優れた能力の一つと見なされている。<br>	考える・思う・決め込む
+特定	とくてい	[sound:yomichan_audio_とくてい_特定.mp3]	Xác định, định rõ, cụ thể	原因特定が難しい<br>誤り位置を特定し、訂正する<br>死因の特定を急いでいる	指定する・限定する
+戸	と	[sound:yomichan_audio_と_戸.mp3]	Không hẳn là...	N1持っていても日本語が話せるとは限らない。<br>お金持ちが必ずしも幸福とは限らない。<br>値段が高いものが必ず質がいいとは限らない。	とは言えない・わけではない
+同一	どういつ	[sound:yomichan_audio_どういつ_同一.mp3]	Đồng nhất, giống nhau, cùng một ~	その小川さんというのは私の知っている人と同一人物だろうか。<br>あんな男と同一視されてたまらんよ。<br>	同じ・同様
+trống	チェック	[sound:yomichan_audio_チェック.mp3]	Check code (Mã kiểm tra)	チェックコード生成回路<br>	trống
+巡回冗長検査	じゅんかいじょうちょうけんさ	[sound:yomichan_audio_じゅんかいじょうちょうけんさ_巡回冗長検査.mp3]	Cyclic redundancy check (Kiểm tra độ dư tuần hoàn) (CRC)	trống	trống
+生	なま	[sound:yomichan_audio_なま_生.mp3]	Đa thức đã tạo	trống	trống
+割る	わる	[sound:yomichan_audio_わる_割る.mp3]	Chia (phép chia)<br>Làm vỡ, đập vỡ	割り算<br>１割る０はいくつになりますか？<br>６割る2は3となる<br>卵を割る	割り切る
+余り	あまり	[sound:yomichan_audio_あまり_余り.mp3]	Dư, thừa	４：３＝１　余り　１<br>割り切れるときは、「０」を余りとする。	残り・残余・余分
+バーストあやまり	バースト誤り	[sound:yomichan_audio_バースト誤り_バーストあやまり.mp3]	Burst error (Lỗi bệt)	trống	trống
+trống	ランダム	[sound:yomichan_audio_ランダム.mp3]	Random error (Lỗi ngẫu nhiên)	trống	trống
+信頼性	しんらいせい	[sound:yomichan_audio_しんらいせい_信頼性.mp3]	Sự tin tưởng, sự tín nhiệm	高信頼性<br>信頼性が高い<br>信頼性を向上させる<br>彼の言うことは あやふやで、 信頼性に 欠ける。<br>当社製品は長い実績による高い信頼性がある。	確実性, 合法性, 信憑性, 真実性, 真, 真正<br>信憑性, 真実性<br>信憑性
+付加	ふか	[sound:yomichan_audio_ふか_付加.mp3]	Thêm vào, cộng thêm	Giống 16. 付け加える 	補足する・追加する・加える
+trống	チェックディジット	[sound:yomichan_audio_チェックディジット.mp3]	Check Digit (Số kiểm tra)	trống	trống
+併用	へいよう	[sound:yomichan_audio_へいよう_併用.mp3]	Cùng sử dụng, sử dụng đồng thời	二つの方法を併用する<br>割引券は他のクーポンとは併用できない	共用

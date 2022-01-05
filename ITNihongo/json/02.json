@@ -1,0 +1,413 @@
+﻿{
+    "sheet": [
+        {
+            "kotoba": "離れる",
+            "hiragana": "はなれる",
+            "betonamu": "Cách ra, rời xa, tách xa",
+            "tsuikakata": "故郷を10年間も離れていた\r\n親離れ　Sống rời xa cha mẹ (sống tự lập)\r\n家は会社から離れています\r\n飛行機は陸を離れます\r\nアパートは学校から離れたところにあります",
+            "ruiji": "遠い"
+        },
+        {
+            "kotoba": "場所",
+            "hiragana": "ばしょ",
+            "betonamu": "Địa điểm, Vị trí, Nơi",
+            "tsuikakata": "集合場所  Địa điểm tập chung\r\n実施場所  Nơi thực thi",
+            "ruiji": "位置、ところ、スペース"
+        },
+        {
+            "kotoba": "通信",
+            "hiragana": "つうしん",
+            "betonamu": "Truyền Thông, Thông tin, Truyền tin, Liên lạc",
+            "imi": "送り手が情報を送り、また受け手が情報を受けることである\r\n特に電気的な手段を用いて行える場合を指すことが多い",
+            "tsuikakata": "通信をする/行う\r\n海外と通信する、モデムで通信する\r\n無線で通信する\r\nコンピュータ同士が通信をする\r\n\r\n通信＋N\r\n電気通信 Viễn thông  \r\n通信機器 Thiết bị truyền thông\r\n通信回線  Đường truyền　　　\r\n通信速度  Tốc độ truyền tin　　　\r\n通信障害  Lỗi truyền thông　　\r\n通信相手  Đối tác truyền tin\r\n"
+        },
+        {
+            "kotoba": "約束",
+            "hiragana": "やくそく",
+            "betonamu": "Hứa hẹn",
+            "tsuikakata": "約束をする\r\n私は約束します\r\nその話を誰にも話さないと約束しますよ\r\n秘密を守ることを約束しますよ\r\n\r\n約束事：Sự hứa hẹn, Lời hứa hẹn\r\n規定：Quy định\r\n規則：Quy tắc\r\nルール: Rule, quy tắc\r\n規格:Quy cách, tiêu chuẩn\r\n規約：Quy ước\r\n",
+            "ruiji": "誓約、誓う"
+        },
+        {
+            "kotoba": "手順",
+            "hiragana": "てじゅん",
+            "betonamu": "Trình tự, thứ tự",
+            "tsuikakata": "手順を定める　Xác định trình tự\r\n手順を踏む      Làm theo trình tự\r\n手順を決める   Quyết định trình tự  \r\n\r\n実際の手順　Trình tự thực tế\r\n接続手順       Trình tự kết nối",
+            "ruiji": "順序、順番、過程、プロセス、次第、流"
+        },
+        {
+            "kotoba": "経路",
+            "hiragana": "けいろ",
+            "betonamu": "Kênh(Chanel), Con đường",
+            "tsuikakata": "販売経路                    Kênh bán hàng\r\n最短経路                    Con đường ngắn nhất\r\nAからBへ行く経路    Con đường đi từ A đến B",
+            "ruiji": "ルート（route）、道ずじ、道順\r\n"
+        },
+        {
+            "kotoba": "同士",
+            "hiragana": "どうし",
+            "betonamu": "Hội, nhóm, các \r\n\r\nDùng để diễn tả 1 nhóm người, nhóm sự vật, sự việc có cùng tính chất với nhau",
+            "tsuikakata": "兄弟同士  Anh em\r\n仲間同士で旅行に行く Đi du lịch cùng nhóm bạn thân\r\nコンピュータ同士　Các máy tính\r\n"
+        },
+        {
+            "kotoba": "あらかじめ",
+            "betonamu": "Sẵn sàng, trước",
+            "tsuikakata": "試験の前にあらかじめ筆記用具を用意して置いた。\r\n授業の前にあらかじめ単語を調べておいた。\r\nあらかじめ配布した用紙に記入してください。",
+            "ruiji": "前もって、事前に"
+        },
+        {
+            "kotoba": "プロトコル",
+            "betonamu": "Giao thức, protocol",
+            "tsuikakata": "通信プロトコル\r\nプロトコルの仕組みを理解する\r\nIPやFTP、HTTPといったいくつかの（通信）プロトコルが開発された\r\nIT機器を用いて通信を行う時には適切なプロトコルの種類を選ぶ必要がある\r\nプロトコルに反した方法で通信しようとするとエラーが発生します"
+        },
+        {
+            "kotoba": "コンピュータ",
+            "betonamu": "Máy tính, computer",
+            "tsuikakata": "コンピュータセキュリティーの専門家\r\nコンピュータの能力\r\nコンピュータを起動する時に勝手にアプリが起動してしまいます\r\n私は今新しく買ったコンピュータを設定しています\r\nコンピュータを操作します\r\nコンピュータは演算をし、情報を処理します",
+            "ruiji": "パソコン、計算機"
+        },
+        {
+            "kotoba": "ネットワーク",
+            "betonamu": "Mạng, Network",
+            "imi": "\r\nケーブルや無線などを使って複数のコンピュータをつなぎお互いに情報をやり取りできるようにした仕組み\r\n\r\n 個々の人のつながり。特に、情報の交換を行うグループ",
+            "tsuikakata": "コンピュータネットワーク\r\nネットワーク構築\r\nネットワークに登録されたIPアドレスやドメイン名などを確認できる\r\nネットワーク経由で時刻を調整する\r\nネットワーク接続状況を調査する\r\n\r\n人的ネットワーク\r\n人脈ネットワーク\r\n「地域ネットワーク」"
+        },
+        {
+            "kotoba": "インターネット",
+            "betonamu": "Mạng, Internet",
+            "tsuikakata": "インターネットに接続する\r\nインターネットを利用する\r\n\r\nインターネット＋N\r\nインターネットサービス　　dịch vụ mạng　　　\r\nインターネット接続　　　　kết nối mạng\r\nインターネット閲覧ソフト　phần mềm duyệt Web\r\nインターネット経由　　　　thông qua Internet\r\n\r\nインターネット上\r\nインターネット上で買い物をする"
+        },
+        {
+            "kotoba": "普及",
+            "hiragana": "ふきゅう",
+            "betonamu": "Phổ cập",
+            "imi": "広く一般に行き渡ること、行き渡らせること",
+            "tsuikakata": "普及する\r\nインターネットが普及する\r\n\r\n普及＋N\r\n普及版　phiên bản phổ cập\r\n普及率　tỉ lệ phổ cập　　\r\n　　　　普及率が上がる\r\n　　　　インターネットの普及率はここ10年で高まっている"
+        },
+        {
+            "kotoba": "メーカ",
+            "betonamu": "Nhà sản xuất (maker)",
+            "imi": "製造業者、製造会社、つまり物事を作り出す人",
+            "tsuikakata": "N＋メーカ\r\n食品メーカ、自動車メーカ、…\r\n参考：素材メーカー\r\n　　　加工・組立メーカー\r\n　　　自社生産・加工メーカー",
+            "ruiji": "風通は「メーカー」と書いてある\r\n"
+        },
+        {
+            "kotoba": "機種",
+            "hiragana": "きしゅ",
+            "betonamu": "Loại máy\r\nLoại thiết bị",
+            "imi": "機械の種類",
+            "tsuikakata": "機種＋N\r\n機種変更　　　スマホの機種変更\r\n機種依存文字　"
+        },
+        {
+            "kotoba": "機能",
+            "hiragana": "きのう",
+            "betonamu": "Chức năng (function)",
+            "imi": "物のはたらき",
+            "tsuikakata": "N＋機種\r\n通信機能\r\n\r\n機種＋N\r\n機能面　　Phương diện chức năng\r\n機能仕様　Thông số chức năng, mô tả chức năng\r\n新たな機能を追加する"
+        },
+        {
+            "kotoba": "仕組み",
+            "hiragana": "しくみ",
+            "betonamu": "Cơ cấu, cơ chế, tổ chức",
+            "imi": "物事の組み立て、構造、機構",
+            "tsuikakata": "N＋仕組み\r\nネットワーク通信機能の仕組み\r\nGoogle検索の仕組みはどうなっていますか",
+            "ruiji": "組織、組み立て、システム"
+        },
+        {
+            "kotoba": "異なる",
+            "hiragana": "ことなる",
+            "betonamu": "Khác biệt, khác nhau ",
+            "imi": "他の物から差異を持つこと",
+            "tsuikakata": "が/は異なる　　  Cái gì khác biệt\r\n彼女はお姉さんと顔がそっくりだが、性格がだいぶ異なってます\r\nによって異なる　Khác nhau tuỳ theo...\r\n料理の作り方は人によって異なっています\r\nと異なる　　　　Khác với\r\nウワサは事実と異なっている",
+            "ruiji": "違う"
+        },
+        {
+            "kotoba": "多大",
+            "hiragana": "ただい",
+            "betonamu": "Nhiều, to lớn",
+            "imi": "数量・規模などが非常に大きいこと",
+            "tsuikakata": "多大な　　\r\n多大な影響がある　Có ảnh hưởng lớn",
+            "ruiji": "最大、巨大、盛大"
+        },
+        {
+            "kotoba": "労力",
+            "hiragana": "ろうりょく",
+            "betonamu": "Công sức, hơi sức",
+            "imi": "働くことにいる力\r\n",
+            "tsuikakata": "労力を費やす　Bỏ ra công sức\r\n労力がかかる　Tốn công sức",
+            "ruiji": "苦労、労苦、努力\r\n"
+        },
+        {
+            "kotoba": "もっと",
+            "betonamu": "Thêm nữa, hơn nữa\r\n\r\nDùng để biểu thị mức độ cao hơn mức độ hiện tại",
+            "imi": "その上に、さらに。\r\n（添加の意味を持つ表現）",
+            "tsuikakata": "雨がもっと強くなる\r\nもっと勉強してほしい。",
+            "ruiji": "更に、ますます"
+        },
+        {
+            "kotoba": "簡単",
+            "hiragana": "かんたん",
+            "betonamu": "Đơn giản",
+            "tsuikakata": "簡単に言えば\r\n簡単に回答する\r\n簡単なものを作る\r\n簡単な日本語なら理解できます"
+        },
+        {
+            "kotoba": "機器",
+            "hiragana": "きき",
+            "betonamu": "Máy móc, công cụ, dụng cụ",
+            "imi": "機械・器械・器具の総称。",
+            "tsuikakata": "情報機器、電子機器、医療機器"
+        },
+        {
+            "kotoba": "備える",
+            "betonamu": "Chuẩn bị, trang bị, sẵn có",
+            "imi": "起こる事態に対応できるように準備しておく",
+            "tsuikakata": "教室にコンピューターを備える\r\n才能を備える"
+        },
+        {
+            "kotoba": "ISO（国際標準化機構）\r\n(International Organization for Standardization)",
+            "betonamu": "Tổ chức tiêu chuẩn hoá quốc tế"
+        },
+        {
+            "kotoba": "国際",
+            "hiragana": "こくさい",
+            "betonamu": "Quốc tế",
+            "imi": "一国内の問題ではなく、諸国民・諸国家の間に存在・関係すること"
+        },
+        {
+            "kotoba": "標準化",
+            "hiragana": "ひょうじゅんか",
+            "betonamu": "Tiêu chuẩn hoá",
+            "imi": "製品・資材などの種類や規格を、標準に合わせて整えること",
+            "tsuikakata": "入力メソッドを指定する値は標準化されていない。"
+        },
+        {
+            "kotoba": "機構",
+            "hiragana": "きこう",
+            "betonamu": "Cơ quan, tổ chức",
+            "imi": "色々な部分が互いに関連して働く仕組み、会社や団体などの組織",
+            "tsuikakata": "政治機構、社会機構"
+        },
+        {
+            "kotoba": "定める",
+            "hiragana": "さだめる",
+            "betonamu": "Quyết định, xác định, quy định",
+            "imi": "物事を決めること\r\n",
+            "tsuikakata": "期限を定める",
+            "ruiji": "決める、決定"
+        },
+        {
+            "kotoba": "OSI 基本参照モデル\r\n(Open Systems Interconnection Reference Model)",
+            "betonamu": "Mô hình tham chiếu kết nối các hệ thống mở"
+        },
+        {
+            "kotoba": "基本",
+            "hiragana": "きほん",
+            "betonamu": "Cơ bản",
+            "tsuikakata": "基本的なこと、法律の基本、基本色"
+        },
+        {
+            "kotoba": "参照",
+            "hiragana": "さんしょう",
+            "betonamu": "Tham chiếu, tham khảo",
+            "tsuikakata": "参照のみ、下記参照、前期参照\r\n詳細は付録を参照する"
+        },
+        {
+            "kotoba": "モデル",
+            "betonamu": "Mô hình (model)"
+        },
+        {
+            "kotoba": "ソフトウェア",
+            "betonamu": "Phần mềm (software)",
+            "imi": "コンピュータに対して命令を出すプログラム"
+        },
+        {
+            "kotoba": "開発",
+            "hiragana": "かいはつ",
+            "betonamu": "Phát triển (phát triển phần mềm)",
+            "imi": "新しいものを作り出すこと。また、対象に働きかけて機能や能力を獲得・発展させたり、人間の役に立つ状態に作り変えたりすること。",
+            "tsuikakata": "開発＋N\r\n開発者\r\n開発機能\r\n\r\n開発する\r\n新しい交通システムを開発する\r\n学生管理のアプリを開発する",
+            "ruiji": "間違いやすい表現：「発展」\r\n\r\n発展：進歩してより優れた段階に向かうこと。規模が大きくなること（phát triển kinh tế）\r\n例文：会社の発展に貢献する。"
+        },
+        {
+            "kotoba": "スムーズ",
+            "betonamu": "Mịn màng, trôi chảy, nhịp nhàng (smooth), thuận lợi",
+            "imi": "「物事や動作が円滑に進むさま」という意味のカタカナ語です。",
+            "tsuikakata": "スムーズなスキン\r\n仕事が予定よりスムーズに進んでいます"
+        },
+        {
+            "kotoba": "役割",
+            "hiragana": "やくわり",
+            "betonamu": "Vai trò",
+            "tsuikakata": "皆で役割を分担します\r\n重要な役割を果たします\r\n開発チームに具体的な内容を伝える役割があります"
+        },
+        {
+            "kotoba": "次の通り",
+            "hiragana": "つぎのとおり",
+            "betonamu": "Như sau ",
+            "tsuikakata": "授業の目標は次の通りです。"
+        },
+        {
+            "kotoba": "転送",
+            "hiragana": "てんそう",
+            "betonamu": "rời chuyển, chuyển tiếp, truyền đi",
+            "tsuikakata": "転送する\r\n\r\nファイル転送　\r\nメール転送"
+        },
+        {
+            "kotoba": "閲覧",
+            "hiragana": "えつらん",
+            "betonamu": "Xem",
+            "imi": "「閲覧」は本やウェブページなど、文章が書かれたようなものを調べようと読むことを指して使います。",
+            "tsuikakata": "閲覧する\r\n本を閲覧する\r\nサイトを閲覧する\r\n資料を閲覧する\r\n\r\n閲覧者\r\nこのサイトの閲覧者数は非常に多いです\r\n\r\n閲覧室\r\n図書館の閲覧室は静かで居心地良い",
+            "ruiji": "見る\r\n読む"
+        },
+        {
+            "kotoba": "誤り",
+            "hiragana": "あやまり",
+            "betonamu": "Lỗi, sai ",
+            "tsuikakata": "記載内容に誤りがあります\r\n大きな誤りを犯す\r\n計算の誤りがあります",
+            "ruiji": "間違い"
+        },
+        {
+            "kotoba": "制御",
+            "hiragana": "せいぎょ",
+            "betonamu": "Kiểm soát, chế ngự",
+            "tsuikakata": "制御する\r\n電子機器を制御する制御装置",
+            "ruiji": "コントロール"
+        },
+        {
+            "kotoba": "再送",
+            "hiragana": "さいそう",
+            "betonamu": "Gửi lại ",
+            "imi": "再び送る",
+            "tsuikakata": "念の為、メールを再送します"
+        },
+        {
+            "kotoba": "要求",
+            "hiragana": "ようきゅう",
+            "betonamu": "Yêu cầu, đòi hỏi",
+            "tsuikakata": "要求する\r\n体が水分を要求する\r\n待遇改善を要求する",
+            "ruiji": "リクエスト"
+        },
+        {
+            "kotoba": "対応",
+            "hiragana": "たいおう",
+            "betonamu": "Đáp ứng, xử lý, đối ứng, phản ứng ",
+            "tsuikakata": "すぐに対応させていただきます\r\nタスクを対応します\r\n通信サービスに対応するプロトコル"
+        },
+        {
+            "kotoba": "表現",
+            "hiragana": "ひょうげん",
+            "betonamu": "Thể hiện, trình bày, biểu diễn",
+            "tsuikakata": "表現型、表現力\r\n表現する\r\n言葉で表現する",
+            "ruiji": "表わす、表出、体現、表明"
+        },
+        {
+            "kotoba": "形式",
+            "hiragana": "けいしき",
+            "betonamu": "Kiểu, dạng, định dạng ",
+            "imi": "物・事となって現れている形や型",
+            "tsuikakata": "自由形式課題、暗号化形式\r\n論文の形式",
+            "ruiji": "フォーマット"
+        },
+        {
+            "kotoba": "文字コード",
+            "hiragana": "もじこーど",
+            "betonamu": "Mã kí tự\r\nCharacter code",
+            "imi": "文字や記号をコンピュータ上でデータとして扱うために、一文字ずつ固有の識別番号を与えて区別できるようにした符号のこと"
+        },
+        {
+            "kotoba": "暗号",
+            "hiragana": "ばんごう",
+            "betonamu": "Mã hoá",
+            "imi": "ある情報を特定の決まった人しか読めないように一定の手順に基づいて無意味な文字や符号の列に置き換えたもの",
+            "tsuikakata": "暗号化\r\n暗号アルゴリズム\r\n暗号鍵\r\n暗号化する\r\n暗号を破る"
+        },
+        {
+            "kotoba": "開始",
+            "hiragana": "かいし",
+            "betonamu": "Bắt đầu ",
+            "imi": "はじめること",
+            "tsuikakata": "事業開始時\r\n開始する",
+            "ruiji": "スタート、始まる、始める"
+        },
+        {
+            "kotoba": "終了",
+            "hiragana": "しゅうりょう",
+            "betonamu": "Kết thúc",
+            "imi": "終わること",
+            "tsuikakata": "終了日付\r\n終了する\r\n終了です。",
+            "ruiji": "終わる、終える"
+        },
+        {
+            "kotoba": "隣接",
+            "hiragana": "りんせつ",
+            "betonamu": "Bên cạnh, kế bên",
+            "imi": "すぐ隣につづくこと",
+            "tsuikakata": "隣接地\r\n隣接する\r\n隣接する国に対する情報提供",
+            "ruiji": "\bとなり"
+        },
+        {
+            "kotoba": "信頼性",
+            "hiragana": "しんらいせい",
+            "betonamu": "Tính tin cậy",
+            "tsuikakata": "情報の信頼性\r\n信頼性を築く\r\n信頼性を向上させる",
+            "ruiji": "信頼度、確かさ"
+        },
+        {
+            "kotoba": "確保",
+            "hiragana": "かくほ",
+            "betonamu": "Đảm bảo, Cam đoan",
+            "imi": "しっかり得ているものを保ったり、そろえたり、自分の支配が及ぶ状態にしたりすること",
+            "tsuikakata": "安全の確保、安全確保\r\n確保する\r\n人材を確保する"
+        },
+        {
+            "kotoba": "選択",
+            "hiragana": "せんたく",
+            "betonamu": "Lựa chọn, tuyển chọn",
+            "imi": "よいもの、適当なものを選び取ること",
+            "tsuikakata": "選択科目\r\n選択する"
+        },
+        {
+            "kotoba": "規定",
+            "hiragana": "きてい",
+            "betonamu": "Quy định, quy ước",
+            "imi": "性質や概念など、一定の内容をもつものとして定めること",
+            "tsuikakata": "倫理規定\r\n規定を守る ＞＜ 規定を破る\r\n規定する",
+            "ruiji": "規約、規程、規律、ルール"
+        },
+        {
+            "kotoba": "中継",
+            "hiragana": "ちゅうけい",
+            "betonamu": "Chuyển tiếp \r\nTruyền ",
+            "imi": "中間で受け渡しする",
+            "tsuikakata": "データの中継をする/行う"
+        },
+        {
+            "kotoba": "電気信号",
+            "hiragana": "でんきしんご",
+            "betonamu": "Tín hiệu điện ",
+            "imi": "電気によって情報を伝える信号"
+        },
+        {
+            "kotoba": "物理的",
+            "hiragana": "ぶつりてき",
+            "betonamu": "Mang tính vật lý",
+            "imi": "空間、時間、重量などの数量に置き換えられる面からとらえるさま\r\n物理学にかかわるさま、物理学の法則にかなっているさま",
+            "tsuikakata": "ハードウェアはディスプレイやキーボードなど物理的なものである\r\n物理的に関係する"
+        },
+        {
+            "kotoba": "コネクタ",
+            "betonamu": "Đầu nối (connector)",
+            "tsuikakata": "電気コネクタ"
+        },
+        {
+            "kotoba": "ケーブル",
+            "betonamu": "Dây nối, dây cáp (cable)",
+            "tsuikakata": "地下ケーブル\r\n伝送ケーブル"
+        },
+        {
+            "kotoba": "ルーティング",
+            "betonamu": "Định tuyến (routing)",
+            "tsuikakata": "ルーティング装置"
+        }
+    ]
+}
